@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to My Blog!
-date:
+date: 2020-04-28 01:35:48
 tags:
   - Home Buyer Tips
   - Home Seller Tips
