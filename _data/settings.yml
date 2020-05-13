@@ -33,7 +33,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.centralphoenixappraisal.com/
   second_CTA_text: Home Search
-  second_CTA_URL: https://samlevyhomes.com/advanced-search/
+  second_CTA_URL: https://samlevy.thebrokery.com/properties-list-2/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -47,7 +47,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Phoenix Home?"
     CTA_text2: "Search the entire MLS for your Phoenix home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://samlevyhomes.com/advanced-search/
+    CTA_url2: https://samlevy.thebrokery.com/properties-list-2/
 
 lender:
   show_section: false
