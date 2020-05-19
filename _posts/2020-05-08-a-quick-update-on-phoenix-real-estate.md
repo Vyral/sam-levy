@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: Here’s how our market has been affected by COVID-19.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/A+Quick+Update+on+Phoenix+Real+Estate.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Market+Update+with+captions.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: E7-aYH_-nCo
+youtube_code: H6DKgIXe2KA
 ---
 
 {% include youtube.html %}
