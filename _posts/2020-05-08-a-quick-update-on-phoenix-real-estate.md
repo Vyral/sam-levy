@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Update on Phoenix Real Estate
-date: 2020-05-08 20:21:51
+date: 2020-05-08 20:21:00
 tags:
   - Market Update
 excerpt: Here’s how our market has been affected by COVID-19.
@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: H6DKgIXe2KA
+youtube_code: IRz0VVyZUGw
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how our market has been affected by COVID-19.</em></p>
+*Here’s how our market has been affected by COVID-19.*
 
 Phoenix is a unique real estate market that’s in a rare position right now. We had very low inventory before the pandemic started and many people think it will balance out afterward. Inventory has gone up, but we’re still in a strong seller’s market.
 
