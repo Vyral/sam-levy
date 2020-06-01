@@ -21,7 +21,7 @@ youtube_code: NQYcEsmyqys
 
 {% include youtube.html %}
 
-Here are a few pros and cons when it comes to buying a new build versus a resale home.
+<p style="text-align: center;"><em>Here are a few pros and cons when it comes to buying a new build versus a resale home.</em></p>
 
 What even is the difference between a new build home and a resale home?
 
