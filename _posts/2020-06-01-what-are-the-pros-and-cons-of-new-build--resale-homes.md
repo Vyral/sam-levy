@@ -8,7 +8,7 @@ excerpt: >-
   Here are a few pros and cons when it comes to buying a new build versus a
   resale home.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+New+Build+vs+Resale+with+captions+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+New+Build+vs+Resale+with+captions+3.mp4
 pullquote: >-
   Buying resale homes also allow you to deal directly with the seller, which can
   allow you to factor in emotion to get better deals.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: NQYcEsmyqys
+youtube_code: DUzyur8rPoc
 ---
 
 {% include youtube.html %}
