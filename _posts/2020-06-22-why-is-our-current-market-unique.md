@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Is Our Current Market Unique?
+title: We’re in a Unique Real Estate Market
 date: 2020-06-22 17:11:12
 tags:
   - Market Update
