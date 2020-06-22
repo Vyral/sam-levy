@@ -17,7 +17,7 @@ youtube_code: zUAQloAzAg0
 
 {% include youtube.html %}
 
-Our current market is unique because both buyers and sellers can benefit.
+<p style="text-align: center;"><em>Our current market is unique because both buyers and sellers can benefit.</em></p>
 
 Our market is unique right now: It’s a wonderful time to be both a buyer and a seller\! Typically, we’re in either a buyer’s or a seller’s market. If I had to categorize it, **Phoenix and its surrounding cities are in a seller’s market.** However, because of the low interest rates, it’s also an excellent time to buy.&nbsp;
 
