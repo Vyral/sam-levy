@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: Our current market is unique because both buyers and sellers can benefit.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+We+Are+in+a+Unique+Market+with+captions+3.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+We+Are+in+a+Unique+Market+with+captions+4.mp4
 pullquote: It’s an outstanding time to be a buyer or seller in our current market!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: DDapnnsWKXg
+youtube_code: aosC3AdzOOw
 ---
 
 {% include youtube.html %}
