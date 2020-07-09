@@ -19,7 +19,7 @@ youtube_code: oCqKknfX0IM
 
 {% include youtube.html %}
 
-The Phoenix market is currently very strong—and I don’t see us slowing down anytime soon.
+<p style="text-align: center;"><em>The Phoenix market is currently very strong—and I don’t see us slowing down anytime soon.</em></p>
 
 With all the turmoil that the coronavirus and everything else has caused in the world, many markets are facing a lot of uncertainty. The greater Phoenix market, however, is exploding—cities like Chandler, Gilbert, Levine, Peoria, Anthem, and others are experiencing a lot of growth. I don’t predict it’ll slow down anytime soon for a few reasons:
 
