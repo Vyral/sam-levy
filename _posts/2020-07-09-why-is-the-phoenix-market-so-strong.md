@@ -8,13 +8,13 @@ excerpt: >-
   The Phoenix market is currently very strong—and I don’t see us slowing down
   anytime soon.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Why+Phoenix+Is+a+Strong+Market+with+captions.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Why+Phoenix+Is+a+Strong+Market+3.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: oCqKknfX0IM
+youtube_code: pA4l1Uc28ZQ
 ---
 
 {% include youtube.html %}
