@@ -17,7 +17,7 @@ youtube_code: DBM60_kYsX4
 
 {% include youtube.html %}
 
-Homeowners can benefit from a Realtor’s wide-ranging knowledge and contacts.
+<p style="text-align: center;"><em>Homeowners can benefit from a Realtor’s wide-ranging knowledge and contacts.</em></p>
 
 I just wanted to share this quick message with you today: If you’ve bought or sold a home with me and ever have questions about renovations, refinancing, or anything else, please feel free to use me as a resource.
 
