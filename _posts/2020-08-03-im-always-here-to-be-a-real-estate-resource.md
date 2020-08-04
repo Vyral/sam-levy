@@ -21,4 +21,4 @@ youtube_code: DBM60_kYsX4
 
 I just wanted to share this quick message with you today: If you’ve bought or sold a home with me and ever have questions about renovations, refinancing, or anything else, please feel free to use me as a resource.
 
-A lot of people just assume that once a transaction is closed, your relationship with your agent ends. I pride myself on staying in touch with my past clients and being available at all times to answer questions and offer advice.
+A lot of people just assume that once a transaction is closed, your relationship with your agent ends. I pride myself on staying in touch with my past clients and being available at all times to answer questions and offer advice. To hear more about this, watch the short video above
