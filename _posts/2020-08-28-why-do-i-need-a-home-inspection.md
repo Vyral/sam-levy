@@ -17,7 +17,7 @@ youtube_code: Wi6XQzjsZOg
 
 {% include youtube.html %}
 
-There are many reasons why it’s critical to get a home inspection when buying a house, but today I’m breaking down the three most crucial ones:
+<p style="text-align: center;"><em>There are many reasons why it’s critical to get a home inspection when buying a house, but today I’m breaking down the three most crucial ones:</em></p>
 
 **1\. Condition.** An inspection will reveal the condition and age of the A/C unit, plumbing, electrical, and more. All the components of the home will be examined.&nbsp;
 
