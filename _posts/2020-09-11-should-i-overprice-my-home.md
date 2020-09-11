@@ -17,7 +17,7 @@ youtube_code: en2t_jthnbI
 
 {% include youtube.html %}
 
-Here’s why overpricing your home will never do you any favors.
+<p style="text-align: center;"><em>Here’s why overpricing your home will never do you any favors.</em></p>
 
 Today’s message is for sellers: It’s important not to overprice your home. We all feel our house is worth at least a bit more than market value, but when you’re considering selling, you should sit down with a real estate agent and review the data. Here are a few reasons why it’s crucial not to overprice your property:
 
