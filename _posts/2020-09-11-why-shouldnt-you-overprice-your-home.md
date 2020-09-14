@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should I Overprice My Home?
+title: Why Shouldn't You Overprice Your Home?
 date: 2020-09-11 14:17:40
 tags:
   - Home Seller Tips
