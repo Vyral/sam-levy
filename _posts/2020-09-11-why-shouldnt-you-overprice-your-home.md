@@ -6,13 +6,13 @@ tags:
   - Home Seller Tips
 excerpt: Here’s why overpricing your home will never do you any favors.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Why+You+Shouldn't+Overprice+Your+Home+with+captions.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Why+You+Shouldn't+Overprice+Your+Home+3.mp4
 pullquote: Sit down with a real estate agent and review the data.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: en2t_jthnbI
+youtube_code: 3sioIzysX3Q
 ---
 
 {% include youtube.html %}
