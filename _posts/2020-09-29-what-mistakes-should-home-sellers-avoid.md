@@ -17,7 +17,7 @@ youtube_code: BNzi6kWtwsU
 
 {% include youtube.html %}
 
-Here are the top three mistakes that sellers make when they sell their homes.
+<p style="text-align: center;"><em>Here are the top three mistakes that sellers make when they sell their homes.</em></p>
 
 Unfortunately, sellers who don’t know any better tend to make certain decisions that may come back to bite them in the end. Today I’ll share three of the most common mistakes that sellers make and what you should be doing instead if you want to find success in our market:
 
