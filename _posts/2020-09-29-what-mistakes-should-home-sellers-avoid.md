@@ -6,13 +6,13 @@ tags:
   - Home Seller Tips
 excerpt: Here are the top three mistakes that sellers make when they sell their homes.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+3+Mistakes+Sellers+Make+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/What+Mistakes+Should+Home+Sellers+Avoid_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BNzi6kWtwsU
+youtube_code: oWdEUvlkCf8
 ---
 
 {% include youtube.html %}
