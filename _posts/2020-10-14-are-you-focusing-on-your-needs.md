@@ -17,7 +17,7 @@ youtube_code: 9LpU91NEfsg
 
 {% include youtube.html %}
 
-When buying a house, you need to know your must-haves versus your wants.
+<p style="text-align: center;"><em>When buying a house, you need to know your must-haves versus your wants.</em></p>
 
 Being able to differentiate between your must-haves and your wants is crucial when buying a home. As a buyer, you need to **focus on your must-haves, or needs**—these may include location, lot size, square footage, garage, etc. Your wants, on the other hand, might be things such as quartz countertops or new floors—things that can be cosmetically changed later.
 
