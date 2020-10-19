@@ -6,13 +6,13 @@ tags:
   - Home Buyer Tips
 excerpt: 'When buying a home, you need to know your must-haves versus your wants.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Are+You+Focusing+on+Your+Needs_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Must+Haves+vs+Wants+4.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: lBb0NBAJAlI
+youtube_code: cjunwlfJYuc
 ---
 
 {% include youtube.html %}
