@@ -19,6 +19,6 @@ youtube_code: 9I3L7J_TgOE
 
 <p style="text-align: center;"><em>I just wanted to say thank you for supporting me in the crazy year of 2020.</em></p>
 
-Today, I just wanted to take a moment to say Happy Thanksgiving to you all. It’s been a crazy year, so **I’m truly grateful for all the support and help I’ve been given in 2020.** I feel very privileged to be your resource for real estate.&nbsp;
+Today, I just wanted to take a moment to say Happy Thanksgiving to you all! It’s been a crazy year, so **I’m truly grateful for all the support and help I’ve been given in 2020.** I feel very privileged to be your resource for real estate.&nbsp;
 
 If you ever have any questions about buying or selling a home, please feel free to call or email me. I’m always available. I’m looking forward to seeing you soon. Happy Thanksgiving!
