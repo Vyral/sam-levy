@@ -6,13 +6,13 @@ tags:
   - The Brokery
 excerpt: I just wanted to say thank you for supporting me in the crazy year of 2020.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Happy+Thanksgiving+2020+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Happy+Thanksgiving+2020+3.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: eo3yh1Hk8Ws
+youtube_code: 9I3L7J_TgOE
 ---
 
 {% include youtube.html %}
