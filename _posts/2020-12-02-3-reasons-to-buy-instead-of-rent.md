@@ -17,7 +17,7 @@ youtube_code: iFrNCPwGDcM
 
 {% include youtube.html %}
 
-Here are three great reasons to consider buying a home instead of renting.
+<p style="text-align: center;"><em>Here are three great reasons to consider buying a home instead of renting.</em></p>
 
 Here are a few reasons why it’s better to buy than to rent:
 
