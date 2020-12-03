@@ -21,10 +21,10 @@ youtube_code: iFrNCPwGDcM
 
 Here are a few reasons why it’s better to buy than to rent:
 
-1. **Paying your own mortgage.** You’re paying your own mortgage instead of your landlord’s. When you’re a renter, there’s still a mortgage on the property, but you’re paying the landlord, who, in turn, pays the mortgage.&nbsp;
+**1. Paying your own mortgage.** You’re paying your own mortgage instead of your landlord’s. When you’re a renter, there’s still a mortgage on the property, but you’re paying the landlord, who, in turn, pays the mortgage.&nbsp;
 
-1. **You can make the home your own.** When you purchase a home or condo, you can do whatever you want to it. For example, if you own the house, you can remove plants or paint rooms any color you desire.
+**2. You can make the home your own.** When you purchase a home or condo, you can do whatever you want to it. For example, if you own the house, you can remove plants or paint rooms any color you desire.
 
-1. **Interest rates are great.** Currently, rates are at almost historic lows. If you are able to purchase, the money’s practically free. It’s at least worth looking into and getting a professional opinion.&nbsp;
+**3. Interest rates are great.** Currently, rates are at almost historic lows. If you are able to purchase, the money’s practically free. It’s at least worth looking into and getting a professional opinion.&nbsp;
 
 If you have any questions about buying, selling, or renting in Phoenix, please feel free to reach out to me via phone or email. I’m always available.
