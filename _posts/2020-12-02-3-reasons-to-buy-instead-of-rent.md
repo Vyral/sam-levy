@@ -6,13 +6,13 @@ tags:
   - Home Buyer Tips
 excerpt: Here are three great reasons to consider buying a home instead of renting.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Buying+vs+Renting.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Buying+vs+Renting_3.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: iFrNCPwGDcM
+youtube_code: 26RsUNmMQ6w
 ---
 
 {% include youtube.html %}
