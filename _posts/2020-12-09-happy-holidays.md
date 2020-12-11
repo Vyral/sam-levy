@@ -8,13 +8,13 @@ excerpt: >-
   The holiday season has officially arrived. We hope you enjoy this wonderful
   time of year and make some fantastic memories.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Happy+Holidays+2020+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Buying+vs+Renting_3.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: xPCbp8k2XAI
+youtube_code: RWe0dkH3mLw
 ---
 
 {% include youtube.html %}
