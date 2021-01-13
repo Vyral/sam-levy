@@ -17,6 +17,6 @@ youtube_code: NulQ5LNxn6s
 
 {% include youtube.html %}
 
-Here’s where to start repairing your credit score.
+<p style="text-align: center;"><em>Here’s where to start repairing your credit score.</em></p>
 
 Today I want to wish you a happy new year and give you three quick tips on building your credit. If this is a goal of yours in 2021, the first thing you should avoid is applying for any new credit cards. Additionally, schedule automatic payments and don’t make any big purchases. It’s also important to check for any mistakes on your credit report. To learn more, watch this short video.
