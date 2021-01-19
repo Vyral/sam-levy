@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: Here’s where to start repairing your credit score.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Sam+Levy+Tips+To+Improve+Your+Credit+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Sam+Levy+Tips+To+Improve+Your+Credit+3.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
