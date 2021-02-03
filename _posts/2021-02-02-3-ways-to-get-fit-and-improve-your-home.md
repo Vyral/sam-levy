@@ -19,6 +19,6 @@ youtube_code: n_qOX-UBuoQ
 
 <p style="text-align: center;"><em>Here are three ways you can improve your home and fitness at the same time.</em></p>
 
-Everyone has different New Year’s Resolutions, but a lot of people, including myself, have the resolution to try to improve their fitness. Today I’m sharing a few tips to boost your fitness while also improving your home. First, building or painting a fence can burn as many as 340 calories. Additionally, **raking leaves can burn up to 384 calories**, and mowing the lawn can burn as much as 400 calories.
+Everyone has different New Year’s resolutions, but a lot of people, including myself, have resolved to try to improve their fitness. Today I’m sharing a few tips to boost your fitness while also improving your home. First, building or painting a fence can burn as many as 340 calories. Additionally, **raking leaves can burn up to 384 calories**, and mowing the lawn can burn as many as 400 calories.
 
 If you have any other around-the-house fitness recommendations, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
