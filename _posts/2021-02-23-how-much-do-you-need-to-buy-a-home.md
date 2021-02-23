@@ -17,7 +17,7 @@ youtube_code: 15nTWieM51E
 
 {% include youtube.html %}
 
-Here’s the minimum down payment amount for a conventional loan.
+<p style="text-align: center;"><em>Here’s the minimum down payment amount for a conventional loan.</em></p>
 
 What’s the minimum down payment required for homebuyers? The answer depends on the type of loan you apply for, but for today’s video, I’ll focus on conventional loans.
 
