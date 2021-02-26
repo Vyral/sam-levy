@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: What is the minimum down payment amount for a conventional loan?
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Sam+Levy+The+Minimum+Requirement+for+a+Down+Payment+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Sam+Levy+The+Minimum+Requirement+for+a+Down+Payment+3.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
