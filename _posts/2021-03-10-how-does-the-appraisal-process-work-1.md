@@ -17,7 +17,7 @@ youtube_code: duz5cS4K9H0
 ---
 {% include youtube.html %}
 
-Here’s what homebuyers (and sellers) should know about home appraisals.
+<p style="text-align: center;"><em>Here’s what homebuyers (and sellers) should know about home appraisals.</em></p>
 
 Today we’re going to look at what an appraisal is and how the appraisal process works. Essentially, an appraisal happens when a bank/lender sends a third-party appraiser to a home their buyer has made an offer on to determine its value and ensure that the purchase price and the loan amount are aligned. **This is one of the most important parts of a transaction** for several reasons.
 
