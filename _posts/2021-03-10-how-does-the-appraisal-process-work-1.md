@@ -27,4 +27,4 @@ For buyers, the appraised value must be at or above the purchase price. Let’s 
 
 Appraisals are incredibly important to every financed real estate transaction, and you need to be prepared for low appraisals as a buyer or seller in this market.&nbsp;
 
-If you have any questions for me about buying or selling a home in Phoenix, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions for me about buying or selling a home in Phoenix, please don’t hesitate to reach out via phone or email. I look forward to hearing from you soon!
