@@ -7,13 +7,13 @@ tags:
   - Home Seller Tips
 excerpt: Here’s what homebuyers (and sellers) should know about home appraisals.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Sam+Levy+What+Is+an+Appraisal+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Sam+Levy+What+Is+an+Appraisal+3.mp4
 pullquote: Appraisals are incredibly important to all financed real estate transactions.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: duz5cS4K9H0
+youtube_code: hozyfe2AJ60
 ---
 {% include youtube.html %}
 
