@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring 2021 Brings Peak Opportunity for Sellers
-date: 2021-03-26 14:10:37
+date: 2021-03-26 14:10:00
 tags:
   - Home Seller Tips
 excerpt: Here’s why spring 2021 is rife with opportunities for home sellers.
@@ -18,7 +18,7 @@ youtube_code: 4z_awIqraE0
 
 {% include excerpt.html %}
 
-As transition into spring, we find our Phoenix market hotter than ever. If you’re thinking about selling sometime in 2021, I encourage you to start taking the appropriate steps as soon as possible. **Now’s a great time to fetch top dollar for your home,** and I can help you do so quickly without hassle.&nbsp;
+As we transition into spring, we find our Phoenix market hotter than ever. If you’re thinking about selling sometime in 2021, I encourage you to start taking the appropriate steps as soon as possible. **Now’s a great time to fetch top dollar for your home,** and I can help you do so quickly without hassle.&nbsp;
 
 {% include pullquote.html %}
 
