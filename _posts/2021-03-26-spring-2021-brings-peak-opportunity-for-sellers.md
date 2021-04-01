@@ -6,13 +6,13 @@ tags:
   - Home Seller Tips
 excerpt: Here’s why spring 2021 is rife with opportunities for home sellers.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Sam+Levy+Why+You+Should+Consider+Selling+Now+3.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Sam+Levy+Why+You+Should+Consider+Selling+Now+4.mp4
 pullquote: Consider selling now to take advantage of unprecedented demand.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: b3USZoSj7-c
+youtube_code: Cc8TgqLtIzU
 ---
 {% include youtube.html %}
 
