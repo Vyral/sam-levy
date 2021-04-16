@@ -6,13 +6,13 @@ tags:
   - Home Buyer Tips
 excerpt: Here are three inexpensive upgrades that will increase your home’s value.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/3+Simple+Upgrades+to+Help+Your+Home+Sell+for+More.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/3+Simple+Upgrades+to+Help+Your+Home+Sell+for+More+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: qHbqU9EAzsQ
+youtube_code: eOjrhaIcGuk
 ---
 {% include youtube.html %}
 
