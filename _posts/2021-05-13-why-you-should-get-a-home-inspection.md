@@ -3,15 +3,16 @@ layout: post
 title: Why You Should Get a Home Inspection
 date: 2021-05-13 20:27:00
 tags:
+  - Home Buyer Tips
 excerpt: Here are three crucial reasons why buyers need to get a home inspection.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Why+You+Should+Get+a+Home+Inspection.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Why+You+Should+Get+a+Home+Inspection+(1).mp4
 pullquote: 'Inspectors check everything, so you know what you’re buying.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: SGhIqCkWa24
+youtube_code: 41Mqd44tzHY
 ---
 {% include youtube.html %}
 
