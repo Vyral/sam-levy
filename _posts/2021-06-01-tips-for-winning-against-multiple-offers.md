@@ -6,13 +6,13 @@ tags:
   - Home Buyer Tips
 excerpt: Here’s how to be more competitive as a homebuyer in this market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Tips+for+Winning+Against+Multiple+Offers.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Tips+for+Winning+Against+Multiple+Offers+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: rfpGT9VmgIU
+youtube_code: 2brdOXeXk5Y
 ---
 {% include youtube.html %}
 
