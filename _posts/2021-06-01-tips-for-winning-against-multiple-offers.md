@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Winning Against Multiple Offers
-date: 2021-06-01 21:44:14
+date: 2021-06-01 21:44:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how to be more competitive as a homebuyer in this market.
@@ -18,7 +18,7 @@ youtube_code: rfpGT9VmgIU
 
 {% include excerpt.html %}
 
-It’s critical to have the right strategy if you’re buying a home in this market. Pretty much every home is receiving multiple offers, so you need to be able to compete. **Obviously, put your best foot forward from the start and get creative by waiving contingencies if you can.**
+It’s critical to have the right strategy if you’re buying a home in this market. Pretty much every home is receiving multiple offers, so you need to be able to compete. **Put your best foot forward from the start and get creative by waiving contingencies if you can.**
 
 You could also write the seller a “love letter” where you talk about your family and how much you like the home. You could even make a video and send it to them.
 
