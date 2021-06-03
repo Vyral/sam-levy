@@ -22,4 +22,4 @@ It’s critical to have the right strategy if you’re buying a home in this mar
 
 You could also write the seller a “love letter” where you talk about your family and how much you like the home. You could even make a video and send it to them.
 
-If you have any questions for me about buying a home in Phoenix or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions for me about buying a home in Phoenix or real estate in general, please don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
