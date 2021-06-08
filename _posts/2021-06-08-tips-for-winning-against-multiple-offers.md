@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Winning Against Multiple Offers
-date: 2021-06-01 21:44:00
+date: 2021-06-08 10:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how to be more competitive as a homebuyer in this market.
