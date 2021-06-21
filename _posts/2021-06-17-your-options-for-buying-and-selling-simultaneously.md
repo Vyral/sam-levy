@@ -24,4 +24,4 @@ If you need to buy a new home and sell your current home at the same time, you h
 
 **You also have the option to sell first,** then either rent your home back from the buyer or rent another place until you find your new home.&nbsp;
 
-If you have any questions for me or any real estate needs I can assist with, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions for me or real estate needs I can assist with, please don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
