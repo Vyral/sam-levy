@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Options for Buying and Selling Simultaneously
-date: 2021-06-17 19:20:00
+date: 2021-06-22 10:00:00
 tags:
   - Real Estate
 excerpt: Here are your options if you need to buy and sell at the same time.
