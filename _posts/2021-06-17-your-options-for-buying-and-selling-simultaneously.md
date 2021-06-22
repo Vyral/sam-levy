@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Here are your options if you need to buy and sell at the same time.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Your+Options+for+Buying+and+Selling+Simultaneously.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Your+Options+for+Buying+and+Selling+Simultaneously+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pb6kQFjY7WE
+youtube_code: c40yv6dyvKs
 ---
 {% include youtube.html %}
 
