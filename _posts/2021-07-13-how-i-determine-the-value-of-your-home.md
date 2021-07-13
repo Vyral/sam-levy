@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Determine the Value of Your Home
-date: 2021-07-08 13:17:00
+date: 2021-07-13 10:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are the two main steps I take to determine the value of your home.
