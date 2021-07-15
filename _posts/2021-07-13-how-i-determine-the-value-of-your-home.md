@@ -5,7 +5,8 @@ date: 2021-07-13 10:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are the two main steps I take to determine the value of your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/How+I+Determine+the+Value+of+Your+Home+(1).mp4
 pullquote: >-
   These two steps put together will allow me to come up with a fairly accurate
   estimate.
