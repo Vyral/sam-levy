@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: Should you sell your old home first and then buy your new house?
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Options+When+Buying+and+Selling.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Options+When+Buying+and+Selling+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
