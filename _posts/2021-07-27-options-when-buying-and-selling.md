@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Options When Buying and Selling
-date: 2021-07-26 08:05:00
+date: 2021-07-27 08:05:00
 tags:
   - Home Seller Tips
 excerpt: Should you sell your old home first and then buy your new house?
