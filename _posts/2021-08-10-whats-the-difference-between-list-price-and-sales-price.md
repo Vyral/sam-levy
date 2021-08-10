@@ -18,6 +18,6 @@ youtube_code: 7MlUxVDn20I
 
 {% include excerpt.html %}
 
-What’s the difference between a home’s list price and its sales price? A list price is what a home is listed for on the market. Its sales price is what the home actually sells for on the market. **A good agent will suggest a price that is very similar to what they believe the home will sell for. **
+What’s the difference between a home’s list price and its sales price? A list price is what a home is listed for on the market. Its sales price is what the home actually sells for on the market. **A good agent will suggest a price that is very similar to what they believe the home will sell for.**
 
 If you have any questions about pricing or anything else related to real estate, please don’t hesitate to reach out to me. I look forward to hearing from you.
