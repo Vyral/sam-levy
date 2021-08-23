@@ -1,18 +1,18 @@
 ---
 layout: post
 title: How You Should Price Your Home
-date: 2021-08-19 21:20:29
+date: 2021-08-23 13:55:00
 tags:
   - Home Seller Tips
 excerpt: What is the optimal strategy for correctly pricing your house?
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/How+You+Should+Price+Your+Home.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/How+You+Should+Price+Your+Home+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: hyXENjqnq4A
+youtube_code: SDjORR8cpHc
 ---
 {% include youtube.html %}
 
