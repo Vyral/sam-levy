@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Difference Between These Two Bathroom Layouts?
-date: 2021-09-02 16:21:19
+date: 2021-09-07 11:50:00
 tags:
   - Real Estate
 excerpt: Here’s the difference between an en suite and a Jack and Jill bathroom.
@@ -18,8 +18,8 @@ youtube_code: lv4vR6Y-QFk
 
 {% include excerpt.html %}
 
-Today I want to briefly explain the difference between an en suite bathroom and a Jack and Jill bathroom. Every now and then, you’ll hear these buzz words thrown around and I just wanted to quickly clear it up.&nbsp;
+Today I want to briefly explain the difference between an en suite and a Jack and Jill bathroom. Now and then, you’ll hear these buzz words thrown around, and I just wanted to quickly clear it up.&nbsp;
 
-**An en suite bathroom is a bathroom that is connected to a bedroom. A Jack and Jill bathroom is a bathroom that’s between two bedrooms that feed into the same bathroom.&nbsp;**
+**An en suite bathroom is connected to a bedroom. A Jack and Jill bathroom is between two bedrooms that feed into the same bathroom.&nbsp;**
 
 If you have any questions for me about buying, selling, or Phoenix real estate in general, I’m here for you. Just reach out via phone or email today.
