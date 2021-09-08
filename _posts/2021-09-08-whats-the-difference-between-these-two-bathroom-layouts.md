@@ -20,6 +20,6 @@ youtube_code: L2-gGN5nl3s
 
 Today I want to briefly explain the difference between an en suite and a Jack and Jill bathroom. Now and then, you’ll hear these buzz words thrown around, and I just wanted to quickly clear it up.
 
-**An en suite bathroom is connected to a bedroom. A Jack and Jill bathroom is between two bedrooms that feed into the same bathroom. **
+**An en suite bathroom is connected to a bedroom. A Jack and Jill bathroom is between two bedrooms that feed into the same bathroom.**
 
 If you have any questions for me about buying, selling, or Phoenix real estate in general, I’m here for you. Just reach out via phone or email today.
