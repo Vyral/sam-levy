@@ -1,18 +1,18 @@
 ---
 layout: post
 title: What’s the Difference Between These Two Bathroom Layouts?
-date: 2021-09-08 09:50:00
+date: 2021-09-09 09:20:00
 tags:
   - Real Estate
 excerpt: Here’s the difference between an en suite and a Jack and Jill bathroom.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/What%E2%80%99s+the+Difference+Between+These+Two+Bathroom+Layouts_+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/What%E2%80%99s+the+Difference+Between+These+Two+Bathroom+Layouts_+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: L2-gGN5nl3s
+youtube_code: SpxW0I_MeO8
 ---
 {% include youtube.html %}
 
