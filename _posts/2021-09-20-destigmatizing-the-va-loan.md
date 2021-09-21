@@ -18,7 +18,7 @@ youtube_code: C4w8r9Wb_gI
 
 {% include excerpt.html %}
 
-Today I’m at Jimmy Vercillino’s office because he’s an excellent lender and Marine veteran. We’ll be discussing VA loans, our experience with them, and what it takes to get an offer accepted as a VA buyer in the current real estate market. Jimmy is all about preaching information about the VA loan to help veterans build wealth through real estate. Many people are uninformed about the VA loan, but today we’re on a mission to change that.&nbsp;
+Today I’m at Jimmy Vercillino’s office because he’s an excellent lender and Marine veteran. We’ll be discussing VA loans, our experience with them, and what it takes to get an offer accepted as a VA buyer in the current real estate market. Jimmy loves preaching information about the VA loan to help veterans build wealth through real estate. Many people are uninformed about the VA loan, but we’re on a mission to change that.&nbsp;
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
@@ -30,7 +30,7 @@ Today I’m at Jimmy Vercillino’s office because he’s an excellent lender an
 
 3:35—A VA buyer can be a challenge for a new agent
 
-4:55—I believe we’re all on the same team: buyer, buyer’s agent, lender, title, seller, and listing agent&nbsp;
+4:55—I believe we’re all on the same team: buyer, buyer’s agent, lender, title rep, seller, and listing agent&nbsp;
 
 6:55—The selection of the right real estate agent is extremely crucial
 
