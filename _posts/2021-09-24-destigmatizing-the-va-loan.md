@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Destigmatizing the VA Loan
-date: 2021-09-20 19:18:52
+date: 2021-09-24 09:55:00
 tags:
   - Real Estate
 excerpt: Here’s my conversation with lender Jimmy Vercellino about VA loans.
