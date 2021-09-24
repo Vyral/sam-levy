@@ -5,14 +5,13 @@ date: 2021-09-20 19:18:52
 tags:
   - Real Estate
 excerpt: Here’s my conversation with lender Jimmy Vercellino about VA loans.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Destigmatizing+the+VA+Loan.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: C4w8r9Wb_gI
+youtube_code: 7ms9RjyE4Tc
 ---
 {% include youtube.html %}
 
