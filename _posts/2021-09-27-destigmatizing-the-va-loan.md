@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Destigmatizing the VA Loan
-date: 2021-09-24 09:55:00
+date: 2021-09-27 08:30:00
 tags:
   - Real Estate
 excerpt: Here’s my conversation with lender Jimmy Vercellino about VA loans.
@@ -18,9 +18,9 @@ youtube_code: 7ms9RjyE4Tc
 
 {% include excerpt.html %}
 
-Today I’m at Jimmy Vercillino’s office because he’s an excellent lender and Marine veteran. We’ll be discussing VA loans, our experience with them, and what it takes to get an offer accepted as a VA buyer in the current real estate market. Jimmy loves preaching information about the VA loan to help veterans build wealth through real estate. Many people are uninformed about the VA loan, but we’re on a mission to change that.&nbsp;
+Today, I’m at Jimmy Vercillino’s office because he’s an excellent lender and Marine veteran. We’ll be discussing VA loans, our experience with them, and what it takes to get an offer accepted as a VA buyer in the current real estate market. Jimmy loves preaching information about the VA loan to help veterans build wealth through real estate. Many people are uninformed about the VA loan, but we’re on a mission to change that.&nbsp;
 
-**Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
+**Please feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
 0:20—Introduction to today’s topic
 
