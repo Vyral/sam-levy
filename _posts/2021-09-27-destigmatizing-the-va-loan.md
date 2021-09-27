@@ -6,19 +6,19 @@ tags:
   - Real Estate
 excerpt: Here’s my conversation with lender Jimmy Vercellino about VA loans.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Destigmatizing+the+VA+Loan+(2).mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Destigmatizing+the+VA+Loan+(3).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uJdLNxkPRH4
+youtube_code: 1JN4EaDk-FM
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Today, I’m at Jimmy Vercillino’s office because he’s an excellent lender and Marine veteran. We’ll be discussing VA loans, our experience with them, and what it takes to get an offer accepted as a VA buyer in the current real estate market. Jimmy loves preaching information about the VA loan to help veterans build wealth through real estate. Many people are uninformed about the VA loan, but we’re on a mission to change that.&nbsp;
+Today, I’m at Jimmy Vercillino’s office because he’s an excellent lender and Marine veteran. We’ll be discussing VA loans, our experience with them, and what it takes to get an offer accepted as a VA buyer in the current real estate market. Jimmy loves preaching information about the VA loan to help veterans build wealth through real estate. Many people are uninformed about the VA loan, but we’re on a mission to change that.
 
 **Please feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
@@ -30,7 +30,7 @@ Today, I’m at Jimmy Vercillino’s office because he’s an excellent lender a
 
 3:35—A VA buyer can be a challenge for a new agent
 
-4:55—I believe we’re all on the same team: buyer, buyer’s agent, lender, title rep, seller, and listing agent&nbsp;
+4:55—I believe we’re all on the same team: buyer, buyer’s agent, lender, title rep, seller, and listing agent
 
 6:55—The selection of the right real estate agent is extremely crucial
 
