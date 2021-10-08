@@ -32,4 +32,4 @@ A giant safe in the middle of the master bedroom was an interesting thing to see
 
 **We finished the trip by popping a bottle of champagne and toasting to Chris and Tori’s brand-new home.** Thanks to them for trusting me, and I can’t wait to see what the future holds.
 
-If you or someone you know has any real estate needs here in the Greater Phoenix area, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you or someone you know has any real estate needs in the Greater Phoenix area, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
