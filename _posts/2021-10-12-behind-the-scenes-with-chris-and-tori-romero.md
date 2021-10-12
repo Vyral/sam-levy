@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Behind the Scenes With Chris and Tori Romero
-date: 2021-10-11 13:52:00
+date: 2021-10-12 08:00:00
 tags:
   - Real Estate
 excerpt: Here’s a behind the scenes look at another recent closing for our team.
