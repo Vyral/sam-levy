@@ -5,7 +5,8 @@ date: 2021-10-12 08:00:00
 tags:
   - Real Estate
 excerpt: Here’s a behind the scenes look at another recent closing for our team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Behind+the+Scenes+With+Chris+and+Tori+Romero+(2).mp4
 pullquote: Thanks to Chris and Tori for trusting me to help them.
 enclosure_type: video/mp4
 enclosure_time:
