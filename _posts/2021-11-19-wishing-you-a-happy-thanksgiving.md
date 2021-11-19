@@ -5,14 +5,13 @@ date: 2021-11-19 12:00:00
 tags:
   - The Brokery
 excerpt: I wouldn’t be where I am today without all of your support.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Wishing+You+a+Happy+Thanksgiving+(4).mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: PP6Cf6gIPQE
+youtube_code: YPFOahKEK6M
 ---
 {% include youtube.html %}
 
