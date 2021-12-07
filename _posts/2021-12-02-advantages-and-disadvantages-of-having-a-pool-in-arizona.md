@@ -5,14 +5,13 @@ date: 2021-12-02 16:59:32
 tags:
   - Home Buyer Tips
 excerpt: Here’s what you should consider before buying a home with a pool.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Advantages+and+Disadvantages+of+Having+a+Pool+in+Arizona.mp4
+enclosure:
 pullquote: If you won’t use the pool, it might not be worth it.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: zpPRGi7QMAk
+youtube_code: 4tzKW0JDZy0
 ---
 {% include youtube.html %}
 
