@@ -5,7 +5,8 @@ date: 2021-12-13 15:13:36
 tags:
   - Real Estate
 excerpt: Here’s how our Thanksgiving pie event went; we had tons of fun!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Our+Thanksgiving+Pie+Event+Was+Tons+of+Fun+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
