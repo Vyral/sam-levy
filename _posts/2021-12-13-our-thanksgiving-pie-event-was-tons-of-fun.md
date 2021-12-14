@@ -18,6 +18,6 @@ youtube_code: 7-kdT89Hekc
 
 {% include excerpt.html %}
 
-Today we’re taking a break from the usual real estate content to give thanks once again. **The Tuesday before Thanksgiving, we gave away pies** from our north-central office. Watch the video above to see footage of our great event. We hope you can attend one of them in the future\!
+Today, we’re taking a break from the usual real estate content to give thanks once again. **The Tuesday before Thanksgiving, we gave away pies** from our north-central office. Please watch the video above to see footage of our great event. We hope you can attend one of them in the future\!
 
-If you ever have any real estate questions or needs, give us a call. We would love to help you.
+If you ever have any real estate questions or needs, please give us a call. We would love to help you\!
