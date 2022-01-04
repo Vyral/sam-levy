@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supporting G Road at the Future of Phoenix
-date: 2021-12-28 20:47:36
+date: 2022-01-03 20:47:00
 tags:
   - The Brokery
 excerpt: Here’s a quick look at a recent event supporting the youth of Phoenix.
