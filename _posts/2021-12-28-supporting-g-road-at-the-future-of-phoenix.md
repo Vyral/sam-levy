@@ -5,14 +5,13 @@ date: 2021-12-28 20:47:36
 tags:
   - The Brokery
 excerpt: Here’s a quick look at a recent event supporting the youth of Phoenix.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Supporting+G+Road+at+the+Future+of+Phoenix.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: l3WIJRSkjZ0
+youtube_code: ojIvqqmAaTw
 ---
 {% include youtube.html %}
 
