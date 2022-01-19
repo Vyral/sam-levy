@@ -22,7 +22,7 @@ People ask me all the time what they should be doing to find a good Realtor. The
 
 **The first (and most common) is word of mouth.** Everyone has friends or family who have bought or sold a home. If they had a good experience with their agent, they’ll probably be happy to tell you about them. Ask your friends and family who they recommend when it comes to buying and selling real estate.
 
-Next, seek them out online. Look at Zillow and Google Reviews, as well as their other content. You’ll get to know the agents better and get a feel for the kind of experience they provide.
+Next, seek them out online. Look at Zillow, Google Reviews, and their other content. You’ll get to know the agents better and get a feel for the kind of experience they provide.
 
 **After you’ve done your research, I recommend interviewing a few different agents.** This is critical because it’s important to know certain things before you hire one. You want to know what an agent’s marketing strategy is like, what their track record is like, and how long they’ve been in the business. If you're buying or selling, it’s always recommended to use a real estate professional to facilitate a beneficial transaction.
 
