@@ -6,7 +6,7 @@ tags:
   - Expert Advice
 excerpt: Here are some helpful tips if you’re looking to find a great Realtor to hire.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/Tips+for+Finding+the+Right+Realtor.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/Tips+for+Finding+the+Right+Realtor+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
