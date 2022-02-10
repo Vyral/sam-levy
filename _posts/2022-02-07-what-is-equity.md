@@ -5,13 +5,13 @@ date: 2022-02-07 13:31:37
 tags:
   - Real Estate
 excerpt: I explain what equity is and how you can take advantage of it.
-enclosure: https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/What+Is+Equity_.mp4
+enclosure:
 pullquote: There are ways to leverage your equity.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YbGZBGUrW8Y
+youtube_code: Rv-7yUGEytM
 ---
 {% include youtube.html %}
 
