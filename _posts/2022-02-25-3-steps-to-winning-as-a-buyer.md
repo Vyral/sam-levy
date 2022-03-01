@@ -22,6 +22,6 @@ There are three things that you need to do to win as a buyer in this market. **T
 
 After you’re approved, it’s time to get competitive with your offer. Listen to your agent’s recommendations if you want to get the house.&nbsp;
 
-Finally, don’t get discouraged. You’ll likely lose out on a few houses because the market is so competitive, but trust in your agent to make it happen and you’ll reach your goals.&nbsp;
+Finally, don’t get discouraged. You’ll likely lose out on a few houses because the market is so competitive, but trust in your agent to make it happen, and you’ll reach your goals.&nbsp;
 
 If you have any questions about the market or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
