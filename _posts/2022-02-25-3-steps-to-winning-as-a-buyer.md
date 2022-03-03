@@ -24,4 +24,4 @@ After you’re approved, it’s time to get competitive with your offer. Listen 
 
 Finally, don’t get discouraged. You’ll likely lose out on a few houses because the market is so competitive, but trust in your agent to make it happen, and you’ll reach your goals.&nbsp;
 
-If you have any questions about the market or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions about the market or real estate in general, please don’t hesitate to reach out via phone or email. I look forward to hearing from you soon\!
