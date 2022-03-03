@@ -5,14 +5,13 @@ date: 2022-02-25 19:36:13
 tags:
   - Home Buyer Tips
 excerpt: Here are my three best tips for today’s homebuyers in Phoenix.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/3+Steps+to+Winning+as+a+Buyer.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: I8vWaS76fic
+youtube_code: c8o_7KA9CkU
 ---
 {% include youtube.html %}
 
