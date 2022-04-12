@@ -5,7 +5,8 @@ date: 2022-04-08 19:01:33
 tags:
   - Real Estate
 excerpt: Join me on a behind-the-scenes tour of Karma from Boyer Vertical.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/Karma%2C+Boyer+Vertical%E2%80%99s+Latest+Development+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
