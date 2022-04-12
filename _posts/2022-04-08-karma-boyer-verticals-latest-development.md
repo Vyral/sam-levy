@@ -18,8 +18,8 @@ youtube_code: Lw76UFF0yl8
 
 {% include excerpt.html %}
 
-Today we’re in Central Phoenix on 13th and Bethany to check out our newest development, Karma. This is a collection of 11 smart homes from Boyer Vertical, and I’m taking you on a behind-the-scenes tour. This is one of our first new development projects, but there are many more to come.&nbsp;
+Today, we’re in Central Phoenix on 13th and Bethany to check out our newest development, Karma. This is a collection of 11 smart homes from Boyer Vertical, and I’m taking you on a behind-the-scenes tour. This is one of our first new development projects, but there are many more to come.&nbsp;
 
 **These homes are slated to be completed this spring, and they range in price from $1.1 to $1.7 million and from 2,300 to 2,600 square feet.** They’re centrally located right off the 51 freeway next to some great restaurants, like The Yard, Zipps, Bluewater Grill, and more.&nbsp;
 
-As I said, they're selling quickly. If you have any questions, don’t hesitate to reach out via phone or email today. I look forward to hearing from you soon.
+As I said, they're selling quickly. If you have any questions, please don’t hesitate to reach out via phone or email today. I look forward to hearing from you soon.
