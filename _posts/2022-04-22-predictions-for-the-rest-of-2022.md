@@ -5,14 +5,13 @@ date: 2022-04-22 16:31:00
 tags:
   - Market Update
 excerpt: My predictions for the Arizona real estate market for the rest of 2022.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/Predictions+for+the+Rest+of+2022.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: davzNkDAbW4
+youtube_code: IG9-VbjtMqE
 ---
 {% include youtube.html %}
 
