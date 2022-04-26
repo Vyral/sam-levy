@@ -5,7 +5,8 @@ date: 2022-04-22 16:31:00
 tags:
   - Market Update
 excerpt: My predictions for the Arizona real estate market for the rest of 2022.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/Predictions+for+the+Rest+of+2022+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,4 +24,4 @@ If you've been thinking about buying, do it sooner rather than later before your
 
 If you've been thinking about selling, now is an incredible time to list. Due to our high demand and low inventory, you can get an excellent price for your home quickly. Contact your real estate professional today to get the ball rolling.
 
-If you have any questions about buying or selling, reach out to me by phone or email. I look forward to hearing from you.
+If you have any questions about buying or selling, please reach out to me by phone or email. I look forward to hearing from you.
