@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Essential Advice for First-Time Homebuyers
-date: 2022-05-05 18:39:37
+date: 2022-05-05 15:39:00
 tags:
   - Home Buyer Tips
 excerpt: Here is my best advice for first-time homebuyers in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/Essential+Advice+for+First-Time+Homebuyers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
