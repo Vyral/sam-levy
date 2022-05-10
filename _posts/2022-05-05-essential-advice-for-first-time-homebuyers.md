@@ -5,20 +5,19 @@ date: 2022-05-05 15:39:00
 tags:
   - Home Buyer Tips
 excerpt: Here is my best advice for first-time homebuyers in this market.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/Essential+Advice+for+First-Time+Homebuyers.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Pfjv669eIrQ
+youtube_code: zdgtgRenmZw
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Today I have a few helpful tips for first-time homebuyers. This market can be a daunting environment to enter, but you’ll be better off by following this advice:
+Today, I have a few helpful tips for first-time homebuyers. This market can be a daunting environment to enter, but you’ll be better off by following this advice:
 
 **1\. Have your financial ducks in a row.** Have your credit, debt, income, and down payment ready to go and get that info to the lender as soon as possible.
 
@@ -26,4 +25,4 @@ Today I have a few helpful tips for first-time homebuyers. This market can be a 
 
 **3\. Be prepared to lose.** Almost every home is receiving multiple offers, so you may have to lose a few before you win. Don't get discouraged because this is happening to everyone. We can help you succeed if you stick to the course.
 
-If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions for me, please don’t hesitate to reach out via phone or email. I look forward to hearing from you soon\!
