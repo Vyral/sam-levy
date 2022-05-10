@@ -5,14 +5,13 @@ date: 2022-05-05 15:39:00
 tags:
   - Home Buyer Tips
 excerpt: Here is my best advice for first-time homebuyers in this market.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/Essential+Advice+for+First-Time+Homebuyers+(1).mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: zdgtgRenmZw
+youtube_code: z3gTVvYzpRQ
 ---
 {% include youtube.html %}
 
