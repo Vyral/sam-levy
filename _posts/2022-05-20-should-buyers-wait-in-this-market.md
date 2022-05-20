@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should Buyers Wait in This Market?
-date: 2022-05-20 12:58:50
+date: 2022-05-20 09:58:00
 tags:
   - Home Buyer Tips
 excerpt: 'Here are two reasons why it’s still a fantastic time to buy a home. '
