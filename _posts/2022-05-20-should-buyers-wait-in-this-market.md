@@ -5,7 +5,8 @@ date: 2022-05-20 09:58:00
 tags:
   - Home Buyer Tips
 excerpt: 'Here are two reasons why it’s still a fantastic time to buy a home. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2022/Should+Buyers+Wait+in+This+Market_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
