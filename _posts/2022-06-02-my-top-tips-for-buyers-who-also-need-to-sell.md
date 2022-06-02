@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Top Tips for Buyers Who Also Need To Sell
-date: 2022-06-02 15:41:28
+date: 2022-06-02 12:41:00
 tags:
   - Real Estate
 excerpt: Here are three great tips if you need to buy and sell a home right now.
