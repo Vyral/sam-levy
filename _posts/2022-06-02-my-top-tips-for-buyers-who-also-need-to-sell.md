@@ -17,7 +17,7 @@ youtube_code: JExM2Siw6aM
 
 {% include excerpt.html %}
 
-Today I want to talk to the group of people who need to sell their current home to buy their next one. A lot of people are in this predicament, and it takes a skilled agent to juggle two transactions like this. **There are a few things you need to consider to prepare:**
+Today, I want to talk to the group of people who need to sell their current home to buy their next one. A lot of people are in this predicament, and it takes a skilled agent to juggle two transactions like this. **There are a few things you need to consider to prepare:**
 
 **1\. Get your home ready to list.** I recommend some light touch-up work, deep cleaning, and getting the home ready for photography.
 
