@@ -17,4 +17,4 @@ youtube_code: QmAfnoN6yo0
 
 {% include excerpt.html %}
 
-Have you ever wanted a home that feels new? I am excited to announce that I have just listed one of the most upgraded homes in all of Tempe. From its gorgeous kitchen to its elegant bedroom, this home has it all. It even comes with an amazing pool and patio area. To take a look around this stunning home, watch this short video.
+Have you ever wanted a home that feels new? I am excited to announce that I have just listed one of the most upgraded homes in all of Tempe. From its gorgeous kitchen to its elegant bedroom, this home has it all. It even comes with an amazing pool and patio area. To take a glimpse of this stunning home, watch this short video.
