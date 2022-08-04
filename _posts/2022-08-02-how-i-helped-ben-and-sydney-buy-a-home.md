@@ -16,9 +16,9 @@ youtube_code: N3EP5fJpm7k
 
 {% include excerpt.html %}
 
-Have you ever been to the Encanto historic district? It’s a lovely place, and today I’m visiting it to get a testimonial from a couple I recently helped purchase a home here.&nbsp;
+Have you ever been to the Encanto historic district? It’s a lovely place, and today I’m visiting there to get a testimonial from a couple I recently helped purchase a home.&nbsp;
 
-Ben, Sydney, and I met back in the first grade, so I was thrilled when they asked me to help them purchase a home. According to Sydney, the constant communication was a big plus. She always felt like she knew what was happening.&nbsp;
+Ben, Sydney, and I met back in the first grade, so I was thrilled when they asked me to help them purchase a home. According to Sydney, our constant communication was a big plus. She always felt like she knew what was happening.&nbsp;
 
 Before they bought the house in Encanto, Ben and Sydney had to sell their old property. This was the first time they ever had to sell a home, so I enjoyed showing them what they needed to do to get the most money possible out of their sale.&nbsp;
 
