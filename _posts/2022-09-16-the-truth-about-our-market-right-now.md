@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-14-22-levy-yt.jpg
-youtube_code: ijHH8eM00nk
+youtube_code: Hwk1Ln0QFD4
 ---
 {% include youtube.html %}
 
