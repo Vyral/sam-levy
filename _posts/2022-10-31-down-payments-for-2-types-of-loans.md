@@ -23,4 +23,4 @@ With an FHA loan, you can put very little down, as low as 3.5%. These will have 
 
 With a VA loan, you can put as little as 0% down\! However, you have to be a military veteran to be eligible.&nbsp;
 
-**If you think you’re a candidate for one of these options, reach out to a lender or me\!** I would love to answer any questions you may have. Call or email anytime.
+**If you think you’re a candidate for one of these options, reach out to a lender or me\!** I would love to answer any questions you may have. Please call or email anytime\!
