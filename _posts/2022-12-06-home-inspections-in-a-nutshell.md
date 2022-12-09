@@ -17,6 +17,6 @@ youtube_code: PjdKGrtfzFA
 
 {% include excerpt.html %}
 
-What goes into a home inspection when you’re selling a property? An inspector will look at every major and minor mechanical system. They’ll turn on the sinks, fans, and lights; then check every outlet, and get on the roof. They’ll also look in the attic, and test the AC and electrical panels. In short, **everything will be looked at**. If you’re selling or thinking about selling, and you know there’s something that needs to be repaired, I highly recommend getting it repaired before you list. If you don’t, be prepared for the issue to appear on the inspection report.
+What goes in to a home inspection when you’re selling a property? An inspector will look at every major and minor mechanical system. They’ll turn on the sinks, fans, and lights; then check every outlet, and get on the roof. They’ll also look in the attic, and test the AC and electrical panels. In short, **everything will be looked at**. If you’re selling or thinking about selling, and you know there’s something that needs to be repaired, I highly recommend getting it repaired before you list. If you don’t, be prepared for the issue to appear on the inspection report.
 
-If you have any questions, reach out to me by phone or email. I’d love to help you.
+If you have any questions, please reach out to me by phone or email. I’d love to help you\!
