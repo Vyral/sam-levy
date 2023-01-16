@@ -19,4 +19,4 @@ youtube_code: UMEjUbz-3vU
 
 My crucial tip for you today is about what not to do when getting a mortgage. It’s very simple—don’t take out any new and large debts. Don’t buy new furniture, a car, a boat, a trip, or anything else that might hurt your credit score or involve taking on new debt.&nbsp;
 
-If you have any questions about this or want more tips like this, call or email me anytime. I look forward to hearing from you.
+If you have any questions about this or want more tips like this, please call or email me anytime. I look forward to hearing from you.
