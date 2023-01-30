@@ -22,4 +22,4 @@ youtube_code: BohHDXm5Ngw
 
 **When is a good time to downsize?** The answer to this common question is different for everybody. In my opinion, it’s when you want to. Consider downsizing if you think that your house is too big, if your kids moved out for college, if you no longer want to be in a certain neighborhood, or if you want to capitalize on your equity.&nbsp;
 
-If you have more questions about upgrading or downsizing, don’t hesitate to reach out to me by phone or email. I look forward to hearing from you.
+If you have more questions about upgrading or downsizing, please don’t hesitate to reach out to me by phone or email. I look forward to hearing from you!
