@@ -21,4 +21,4 @@ How do you set up a good showing? Sellers ask me this question all the time, and
 
 This will set a great vibe to the house. It'll smell good. It'll be clean. It'll be lit up. This is exactly what buyers want to see when they're coming into your home.
 
-If you need more help on how to improve your showings, call or email me. I’d love to connect with you.
+If you need more help on how to improve your showings, please call or email me. I’d love to connect with you!
