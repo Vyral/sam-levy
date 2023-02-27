@@ -17,9 +17,9 @@ youtube_code: kuLKyeWGlbg
 
 {% include excerpt.html %}
 
-Recently we've heard a lot of news about inflation and a recession. Are we in a recession, and what's inflation doing? What are our interest rates doing? There are things everywhere to consider. In my opinion, if you need to buy a home, now is a great time to make a move. Yes, interest rates are higher than they were, but you can always refinance down the road and lock your money in for a guaranteed 30 years.
+Recently, we've heard a lot of news about inflation and a recession. Are we in a recession, and what's inflation doing? What are our interest rates doing? There are things everywhere to consider. In my opinion, if you need to buy a home, now is a great time to make a move. Yes, interest rates are higher than they were, but you can always refinance down the road and lock your money in for a guaranteed 30 years.
 
-If you're thinking about buying, make sure you consult a lender and a Realtor and do it sooner rather than later. The reason to do it is a real estate property is an investment. You need somewhere to live, and it's an appreciating asset. **Not many things you can buy with or without debt appreciate the same way as real estate.**
+If you're thinking about buying, make sure you consult a lender and a realtor and do it sooner rather than later. The reason to do it is a real estate property is an investment. You need somewhere to live, and it's an appreciating asset. **Not many things you can buy, with or without debt, appreciate the same way as real estate.**
 
 {% include pullquote.html %}
 
