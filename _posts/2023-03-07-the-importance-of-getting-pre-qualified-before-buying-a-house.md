@@ -33,4 +33,4 @@ Additionally, a pre-qualification can help you identify the most suitable mortga
 
 In a competitive housing market, **having a pre-qualification can give you an edge over other potential buyers**. Sellers and real estate agents prefer working with buyers who have already been pre-qualified because it shows that they're serious and have the financial means to purchase a property. Having a pre-qualification in hand also allows you to make an offer on a property quickly. In some cases, a pre-qualification letter can be enough to secure a home before other buyers have a chance to make an offer.
 
-If you have any questions, please don’t hesitate to reach out to me by phone or email. I look forward to hearing from you.
+If you have any questions, please don’t hesitate to reach out to me by phone or email. I look forward to hearing from you!
