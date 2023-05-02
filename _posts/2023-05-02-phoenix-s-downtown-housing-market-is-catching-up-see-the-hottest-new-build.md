@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-2-23-levy-yt.jpg
+youtube_alternate_image: /uploads/5-2-23-levy-yt-1.jpg
 youtube_code: eSJLD9NQtuY
 ---
 {% include youtube.html %}
