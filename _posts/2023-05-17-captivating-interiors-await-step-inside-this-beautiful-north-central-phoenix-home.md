@@ -21,4 +21,4 @@ youtube_code: 1eddzLEv7i8
 
 Today, I’m showing you a property that’s located in North Central Phoenix, one of my favorite neighborhoods and the place I call home. **This area is renowned for its classic ranch-style houses with a unique charm, and this home is a perfect example of this.** Watch the video above to take a quick tour of the house.
 
-If you have any questions about this North Central Phoenix home or anything about real estate, call or email me. I’m always happy to help.
+If you have any questions about this North Central Phoenix home or anything about real estate, call or email me. I’m always happy to help!
