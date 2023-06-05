@@ -10,7 +10,7 @@ pullquote: We are now transitioning to what I consider a more normal market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sam-levy-yt.jpg
+youtube_alternate_image: /uploads/6-5-23-levy-yt.jpg
 youtube_code: 9nAq0jPtunI
 ---
 {% include youtube.html %}
