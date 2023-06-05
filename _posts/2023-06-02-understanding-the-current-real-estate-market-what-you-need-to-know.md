@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Understanding the Current Real Estate Market: What You Need to Know'
+title: 'Understanding the Current Real Estate Market: What You Need To Know'
 date: 2023-06-02 00:00:00
 tags:
   - Market Update
