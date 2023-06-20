@@ -31,4 +31,4 @@ Why are upgrades important? Upgrades significantly impact the value of a propert
 
 When selecting an agent or preparing to sell your home, make sure to thoroughly outline all the upgrades and enhancements you've made. It is essential that your agent effectively communicates this information to the appraiser. By doing so, you can ensure that your home is valued properly, despite the backward-looking nature of appraisals.
 
-If you have any questions, don’t hesitate to reach out to me by phone or email.
+If you have any questions, please don’t hesitate to reach out to me by phone or email!
