@@ -25,4 +25,4 @@ What should buyers look for when touring homes? There’s a lot you need to cons
 
 **3\. Determine the condition of the home.** When you first walk into a house, your agent is probably looking for signs of the home’s overall condition. However, you need to look at the fit. For example, does the floor plan fit your family?&nbsp;
 
-The truth is that looking for a home is mostly based on feel, which is why I always recommend my clients visit at least 10 to 20 houses before getting serious about writing offers. In the meantime, don’t hesitate to call or email me with any questions you might have. I look forward to hearing from you!
+The truth is that looking for a home is mostly based on feel, which is why I always recommend my clients visit at least 10 to 20 houses before getting serious about writing offers. In the meantime, please don’t hesitate to call or email me with any questions you might have. I look forward to hearing from you!
