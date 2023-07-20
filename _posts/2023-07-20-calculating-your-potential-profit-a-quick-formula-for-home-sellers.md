@@ -23,4 +23,4 @@ How much money will you make if you decide to sell your house? Unfortunately, th
 
 **If you know how much your home could sell for and subtract all of those costs, you’ll know how much you could walk away with.** The other thing to consider is how long you've owned the house and if any tax ramifications come along with that, as that could affect your profits as well. We can help you figure that out.&nbsp;
 
-If you have any questions, don’t hesitate to reach out. I’d be happy to talk to you, so email me or send me a message anytime.
+If you have any questions, don’t hesitate to reach out. I’d be happy to talk to you, so please email me or send me a message anytime.
