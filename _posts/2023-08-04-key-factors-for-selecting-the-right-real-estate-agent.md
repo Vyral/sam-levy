@@ -29,4 +29,4 @@ Selling your house can be an exciting but challenging journey, and selecting the
 
 Remember that this is a sales-driven industry, and not all agents share the same level of dedication and professionalism. Ensuring your chosen agent possesses a strong sense of trust, along with the right expertise and a personal connection, will maximize your chances of a successful sale.
 
-By considering these factors, you can confidently select an agent who will guide you through the selling process and work diligently to achieve the best possible outcome. If you have any questions, don’t hesitate to contact me by phone or email.
+By considering these factors, you can confidently select an agent who will guide you through the selling process and work diligently to achieve the best possible outcome. If you have any questions, please don’t hesitate to contact me by phone or email!
