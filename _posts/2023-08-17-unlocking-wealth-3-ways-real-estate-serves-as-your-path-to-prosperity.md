@@ -27,4 +27,4 @@ If you're active on any form of social media, it's likely no surprise that real 
 
 **3\. Ownership is the key to long-term wealth.** Envision a future where you're aspiring to amass a portfolio of five to 10 rental properties. However, without actual ownership, this dream remains unattainable. To establish lasting generational wealth, true ownership is imperative.
 
-If you're contemplating venturing into real estate as an investment pursuit, I invite you to call or email me. I'm more than willing to engage in a discussion about the strategic approach to this endeavor. Let's embark on the journey to financial prosperity together.
+If you're contemplating venturing into real estate as an investment pursuit, I invite you to call or email me. I'm more than willing to engage in a discussion about the strategic approach to this endeavor. Let's embark on the journey to financial prosperity together!
