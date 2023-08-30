@@ -23,4 +23,4 @@ I got into real estate in 2013 after my grandparents passed away. Their house wa
 
 Getting my license was challenging; it took me multiple attempts, about five to seven, to pass the test. However, **once I succeeded, I listed the house and held an open house on the first Saturday after obtaining my license.** To my surprise, on that very night, I received an all-cash offer at full price with a five-day closing period. When the five days passed, a significant sum was deposited into my account. This experience made me realize my passion for real estate.
 
-As always, if you have any questions about your real estate goals or need guidance with your buying and selling, don’t hesitate to call or email me. I’m always happy to help.
+As always, if you have any questions about your real estate goals or need guidance with your buying and selling, don’t hesitate to call or email me. I’m always happy to help!
