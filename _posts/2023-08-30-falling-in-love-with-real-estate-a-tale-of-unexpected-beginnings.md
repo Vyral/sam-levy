@@ -17,7 +17,7 @@ youtube_code: 1aqdNLTbPg4
 
 {% include excerpt.html %}
 
-Today I’ll be sharing my real estate journey; how I got started and fell in love with the industry.
+Today, I’ll be sharing my real estate journey: how I got started and fell in love with the industry.
 
 I got into real estate in 2013 after my grandparents passed away. Their house was vacant, and I was unsure about my career path after finishing college. At the suggestion of my parents, I decided to pursue a real estate license. This was a new direction for me since I had a degree in marketing.
 
