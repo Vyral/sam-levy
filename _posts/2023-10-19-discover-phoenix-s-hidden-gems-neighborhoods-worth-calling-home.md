@@ -25,4 +25,4 @@ Phoenix boasts numerous hidden gem neighborhoods. My top three recommendations a
 
 **3\. Moon Valley:** Moon Valley is the most family-friendly of these three neighborhoods, featuring spacious properties with lush lots, golf courses, and a high level of privacy.
 
-Whether you're considering buying a property in one of these areas or seeking more information, feel free to call or email me. I'm here to address any questions you may have.
+Whether you're considering buying a property in one of these areas or seeking more information, please feel free to call or email me. I'm here to address any questions you may have.
