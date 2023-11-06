@@ -2,6 +2,8 @@
 layout: post
 title: 3 Simple Tips To Increase Your Credit Score
 date: 2023-11-06 00:00:00
+tags:
+  - Real Estate
 excerpt: Sharing three simple ways anyone can increase their credit score.
 enclosure:
 pullquote:
