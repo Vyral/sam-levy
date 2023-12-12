@@ -15,7 +15,7 @@ youtube_code: Ac-5PCt5Spg
 ---
 {% include youtube.html %}
 
-*These three outdoor projects will help revitalize your Phoenix home!*
+{% include excerpt.html %}
 
 If you want to upgrade your home so that it feels brand new, here are three outdoor projects that will do the trick:
 
