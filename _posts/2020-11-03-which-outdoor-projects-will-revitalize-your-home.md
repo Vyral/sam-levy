@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Which Outdoor Projects Will Revitalize Your Home?
-date: 2020-11-03 18:27:09
+date: 2023-12-12 00:00:00
 tags:
   - Real Estate
 excerpt: These three outdoor projects will help revitalize your Phoenix home.
-enclosure: 'https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/videoplayback+(1).mp4'
+enclosure: https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/videoplayback+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -13,10 +13,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: Ac-5PCt5Spg
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>These three outdoor projects will help revitalize your Phoenix home!</em></p>
+*These three outdoor projects will help revitalize your Phoenix home!*
 
 If you want to upgrade your home so that it feels brand new, here are three outdoor projects that will do the trick:
 
