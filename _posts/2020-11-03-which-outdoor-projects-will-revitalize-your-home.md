@@ -25,4 +25,4 @@ If you want to upgrade your home so that it feels brand new, here are three outd
 
 **3\. Add a new garage door.** As far as curb appeal goes, adding a new garage door completely changes the feel of your house.&nbsp;
 
-Remember, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’d love to help you.
+Remember, if you have questions about this or any real estate topic, please don’t hesitate to reach out to me. I’d love to help you.
