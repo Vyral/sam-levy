@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advantages and Disadvantages of Having a Pool in Arizona
-date: 2024-01-02 08:00:00
+date: 2024-01-04 08:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s what you should consider before buying a home with a pool.
