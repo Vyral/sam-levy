@@ -10,8 +10,8 @@ enclosure: >-
 pullquote: If you won’t use the pool, it might not be worth it.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/1-3-24-levy-yt.jpg
 youtube_code: 4tzKW0JDZy0
 ---
 {% include youtube.html %}
