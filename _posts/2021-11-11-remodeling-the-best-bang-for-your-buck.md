@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remodeling: The Best Bang for Your Buck'
-date: 2021-11-11 07:14:00
+date: 2024-01-18 07:14:00
 tags:
     - Home Seller Tips
 excerpt: Here’s what you need to know if you’re considering remodeling your home.
@@ -12,15 +12,15 @@ pullquote: >-
     bathroom and kitchen.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/1-12-24-levy-yt.jpg
 youtube_code: h7l_h1uRplA
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-One question I’m asked frequently is: “Where can I get the most bang for my buck when remodeling?” The answer depends on what your house looks like, but you'll probably get the best return from your bathroom and kitchen. These are also some of the highest-priced remodels you can do, so **keep your budget in mind.&nbsp;**
+One question I’m asked frequently is: “Where can I get the most bang for my buck when remodeling?” The answer depends on what your house looks like, but you'll probably get the best return from your bathroom and kitchen. These are also some of the highest-priced remodels you can do, so **keep your budget in mind.**&nbsp;
 
 If you have to pick one, I suggest renovating the kitchen. The kitchen is where everyone spends the most time, and it’s one of the most visible places in your home. You may want to consider upgrading the counters, changing the colors to be more trendy, painting or redoing the cabinets, or updating the appliances. Doing these simple things will make your kitchen pop, and you’ll get more money for your home when you sell.
 
