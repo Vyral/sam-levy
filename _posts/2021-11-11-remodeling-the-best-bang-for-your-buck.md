@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remodeling: The Best Bang for Your Buck'
-date: 2024-01-18 07:14:00
+date: 2024-01-15 07:14:00
 tags:
     - Home Seller Tips
 excerpt: Here’s what you need to know if you’re considering remodeling your home.
