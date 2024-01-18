@@ -28,6 +28,6 @@ If you have to pick one, I suggest renovating the kitchen. The kitchen is where 
 
 **A typical kitchen makeover can run you anywhere from $5,000 to $50,000** depending on materials, the size of the room, and more. Where you’ll run into major costs is with materials. For example, if you go with imported Italian marble, that’ll cost much more money than a more common granite or quartz. The same goes for cabinets; if you plan to improve your cabinets by ripping them out and installing new ones, that’ll be way more expensive than painting or refacing them. Consult with a professional before doing anything huge to help you decide what the most cost-effective option is.&nbsp;
 
-It’s not easy to say exactly what your return on investment will be for a kitchen refurbishment, but depending on the finishes and style you go with, **you’ll generally get between $1.20 and $1.50 back per every dollar you spend.** That’s a 120% to 150% return, which is a very high ROI when remodeling.&nbsp;
+It’s not easy to say exactly what your return on investment will be for a kitchen refurbishment, but depending on the finishes and style you go with, **you’ll generally get between $1.20 and $1.50 back per every dollar you spend.**
 
-If you have any questions about remodeling or are thinking about buying or selling a home here in Phoenix, please feel free to call me. I would love to help you.
+If you have any questions about remodeling or are thinking about buying or selling a home here in Phoenix, please feel free to call me. I would love to help you!
