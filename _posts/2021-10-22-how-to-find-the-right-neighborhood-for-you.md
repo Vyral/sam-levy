@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Find the Right Neighborhood For You
-date: 2021-10-22 08:00:00
+date: 2024-01-29 08:00:00
 tags:
     - Home Buyer Tips
 excerpt: What to consider when looking for a neighborhood in which to buy a home.
