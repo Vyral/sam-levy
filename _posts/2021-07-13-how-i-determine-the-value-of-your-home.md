@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Determine the Value of Your Home
-date: 2021-07-13 10:00:00
+date: 2024-03-13 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are the two main steps I take to determine the value of your home.
@@ -12,8 +12,8 @@ pullquote: >-
   estimate.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/3-12-24-levy-yt.jpg
 youtube_code: 8XRpjVOctyw
 ---
 {% include youtube.html %}
@@ -28,6 +28,6 @@ Sellers frequently ask me how I determine the value of their homes. It’s a sim
 
 **2\. I look at comparable sales.** I’ll look at homes within a mile that have sold in the last six months or so that are of similar age and size to yours.
 
-These two steps put together will allow me to come up with a fairly accurate estimate of the value of your home.&nbsp;
+These two steps put together will allow me to come up with a fairly accurate estimate of the value of your home.
 
 If you have any questions about home values, buying, or selling here in Phoenix, please feel free to reach out to me via phone or email. I would love to be your real estate resource.
