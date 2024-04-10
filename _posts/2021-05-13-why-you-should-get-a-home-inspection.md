@@ -4,7 +4,7 @@ title: 3 Key Reasons To Get a Home Inspection
 date: 2021-05-13 20:27:00
 tags:
   - Home Buyer Tips
-excerpt: Here are three crucial reasons why buyers need to get a home inspection.
+excerpt: The top three benefits of getting a home inspection as a buyer.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2021/Why+You+Should+Get+a+Home+Inspection+(1).mp4
 pullquote: Inspectors check everything, so you know what you’re buying.
