@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boost Your Home's Value With These 3 Upgrades
-date: 2024-05-03 17:22:00
+date: 2024-05-03 07:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are three inexpensive upgrades that will increase your home’s value.
