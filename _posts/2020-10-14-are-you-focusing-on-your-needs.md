@@ -18,7 +18,7 @@ youtube_code: cjunwlfJYuc
 
 {% include excerpt.html %}
 
-Being able to differentiate between your must-haves and your wants is crucial when buying a home. As a buyer, you need to **focus on your must-haves, or needs**—these may include location, lot size, square footage, garage, etc. Your wants, on the other hand, might be things such as quartz countertops or new floors—things that can be cosmetically changed later.
+Being able to differentiate between your must-haves and your wants is crucial when buying a home. As a buyer, you need to **focus on your must-haves or needs**—these may include location, lot size, square footage, garage, etc. Your wants, on the other hand, might be things such as quartz countertops or new floors—things that can be cosmetically changed later.
 
 Weigh your needs versus your wants to get the best options for yourself. Focus on the things you can’t change because cosmetic alterations can be made anytime after you secure the home.&nbsp;
 
