@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are You Focusing on Your Needs?
+title: 'Question for Home Buyers: Do I Need it or Do I Want it?'
 date: 2024-05-14 07:00:00
 tags:
   - Home Buyer Tips
