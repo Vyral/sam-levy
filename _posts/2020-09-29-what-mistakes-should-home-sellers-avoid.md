@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Common Mistakes Home Sellers Should Avoid
-date: 2020-09-29 18:55:34
+date: 2024-06-04 06:55:00
 tags:
   - Home Seller Tips
 excerpt: Here are the top three mistakes that sellers make when they sell their homes.
