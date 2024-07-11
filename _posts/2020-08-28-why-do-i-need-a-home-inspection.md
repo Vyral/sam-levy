@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Do I Need a Home Inspection?
-date: 2020-08-28 17:09:22
+title: Here’s Why Home Inspections Matter
+date: 2024-07-10 17:09:00
 tags:
   - Home Buyer Tips
 excerpt: These are the main reasons you need a home inspection when buying a house.
@@ -14,10 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: Wi6XQzjsZOg
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>These are the main reasons you need a home inspection when buying a house.</em></p>
+*These are the main reasons you need a home inspection when buying a house.*
 
 There are many reasons why it’s critical to get a home inspection when buying a house, but today I’m breaking down the three most crucial ones:
 
