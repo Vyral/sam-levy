@@ -1,7 +1,7 @@
 ---
 layout: post
-title: I’m Always Here to Be a Real Estate Resource
-date: 2020-08-03 19:52:07
+title: 'Lifetime Client Care: I Want to Be a Resource for You'
+date: 2024-07-28 19:52:00
 tags:
   - Real Estate
 excerpt: Homeowners can benefit from a Realtor’s wide-ranging knowledge and contacts.
@@ -14,10 +14,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: DBM60_kYsX4
 ---
-
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Homeowners can benefit from a Realtor’s wide-ranging knowledge and contacts.</em></p>
+*Homeowners can benefit from a Realtor’s wide-ranging knowledge and contacts.*
 
 I just wanted to share this quick message with you today: If you’ve bought or sold a home with me and ever have questions about renovations, refinancing, or anything else, please feel free to use me as a resource.
 
