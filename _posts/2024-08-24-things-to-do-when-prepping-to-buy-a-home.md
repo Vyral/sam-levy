@@ -23,4 +23,4 @@ Are you planning on purchasing a home soon? The Phoenix market is highly competi
 
 **3\. Prioritize things you can’t change.** Consider aspects of your home that you cannot easily change, like location, size, or proximity to amenities. These are important factors to keep in mind when making decisions about your living space.
 
-<br>When preparing to buy, having a list of your wants and needs can guide you as you look for your ideal home. If you have any questions about buying your next home, please reach out to me. **You can call me at (602) 501-9352 or send me an email at sam@thebrokery.com.**
+When preparing to buy, having a list of your wants and needs can guide you as you look for your ideal home. If you have any questions about buying your next home, please reach out to me. **You can call me at (602) 501-9352 or send me an email at sam@thebrokery.com.**
