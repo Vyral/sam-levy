@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: KXo6rjzmVYM
 ---
 {% include youtube.html %}
 
@@ -30,4 +30,4 @@ Buying a house is a major investment for many people. Therefore, it makes a lot 
 
 **6\. Final walkthrough and closing.** Once the appraisal is done and the necessary repairs are addressed, you’ll do a final walkthrough of the house to ensure it’s move-in ready. Then, it’s time to close on the property and officially become a homeowner.
 
-The process is simple, and with the right guidance and preparation, you can have a smooth home-buying experience. **If you have any questions about a specific step, please feel free to call me at (602) 501-9352 or email me at** [sam@thebrokery.com](mailto:sam@thebrokery.com)**.** I'd love to help.
+The process is simple, and with the right guidance and preparation, you can have a smooth home-buying experience. **If you have any questions about a specific step, please feel free to call me at (602) 501-9352 or email me at** [sam@thebrokery.com](mailto:sam@thebrokery.com)**.** I’d love to help.
