@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: KkYgy5-xx_s
 ---
 {% include youtube.html %}
 
@@ -24,7 +24,7 @@ I want to sell my home but don’t know where to start. This is a common concern
 
 **2\. Get your home listed.** The listing will be posted on the MLS and syndicated to all the big websites, making your home officially available on the market.
 
-**3\. Prepare for showings.** Expect a steady stream of potential buyers to view your home at different times of the day, anytime in a week. This means you need to be prepared to leave the house with an hour or two' notice to accommodate surprise viewings from potential buyers.
+**3\. Prepare for showings.** Expect a steady stream of potential buyers to view your home at different times of the day, anytime in a week. This means you need to be prepared to leave the house with an hour or two’ notice to accommodate surprise viewings from potential buyers.
 
 {% include pullquote.html %}
 
@@ -34,4 +34,4 @@ I want to sell my home but don’t know where to start. This is a common concern
 
 **6\. Final appraisal and closing.** Once the inspection is cleared and all agreements are in place, it’s time to close the sale, and you can officially move into your new home.
 
-**Selling your home doesn’t have to be stressful.** With the right guidance and preparation, you’ll be able to breeze through the process and have a rewarding experience. If you have any questions about selling your home, call me at (602) 501-9352 or email me at [sam@thebrokery.com](mailto:sam@thebrokery.com). I’m ready to help.
+**Selling your home doesn’t have to be stressful.** With the right guidance and preparation, you’ll be able to breeze through the process and have a rewarding experience. If you have any questions about selling your home, call me at **(602) 501-9352** or email me at [**sam@thebrokery.com**](mailto:sam@thebrokery.com). I’m ready to help.
