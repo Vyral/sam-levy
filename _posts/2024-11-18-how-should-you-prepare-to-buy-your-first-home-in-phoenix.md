@@ -22,7 +22,7 @@ The most important thing you can do is **make a list of your wants versus needs*
 
 If these are true for you, *focus on what you need and make sure those are being met* when you search, along with at least one or two features that you want. It’s all about finding that balance.
 
-You can live with the ones you don't have and add them later if you really want them, like installing a pool or adding a sliding glass door. Things like this can be changed.
+You can live with the ones you don’t have and add them later if you really want them, like installing a pool or adding a sliding glass door. Things like this can be changed.
 
 What’s much harder to change is the **location**, the **size of the home**, and **how close you are to the things you enjoy doing**. You can’t just pick up your house and move it closer to your favorite coffee shop or park.
 
