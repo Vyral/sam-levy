@@ -18,7 +18,7 @@ youtube_code: rgi3XIUI56g
 
 {% include excerpt.html %}
 
-I get this question often: “I want to sell my house. What should I do to prepare, and what should I expect throughout the process?" I’ll give you an overview of the process in a way that’s easy to understand.
+I get this question often: “I want to sell my house. What should I do to prepare, and what should I expect throughout the process?” I’ll give you an overview of the process in a way that’s easy to understand.
 
 **Getting ready to sell.** If you want to profit from your home, we must prepare it for some great photos and videos. This means your home should be clean, depersonalized, and as decluttered as possible to give your home a fresh look for potential buyers.
 
@@ -38,4 +38,4 @@ If your home isn’t in line with comparable sales in the neighborhood, you migh
 
 Home appraisal comes next, where a professional appraiser evaluates your property to determine its fair market value. Once we clear the appraisal, it’ll be time to close, and you’ll be ready to move on to your new home.
 
-<br>Selling your home can seem overwhelming, but knowing what to expect can make the process smoother. If you have any questions about selling your home, please feel free to reach out to me at [(602) 501-9352](tel:6025019352) or [sam@thebrokery.com](mailto:sam@thebrokery.com).
+Selling your home can seem overwhelming, but knowing what to expect can make the process smoother. If you have any questions about selling your home, please feel free to reach out to me at [(602) 501-9352](tel:6025019352) or [sam@thebrokery.com](mailto:sam@thebrokery.com).
