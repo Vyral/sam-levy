@@ -26,4 +26,4 @@ What simple home upgrades can you make to improve the value of your home? If you
 
 **3\. Declutter and depersonalize.** Decluttering is crucial when selling your home. Begin by taking out personal items like family photos and toys. A clean, organized space helps buyers envision themselves living there, making your home feel more spacious and welcoming.
 
-Once you’ve made these upgrades, consider getting professional photos taken. Good images can attract more buyers and help you get a better price. If you have any questions or need more tips, feel free to reach out at [**(602) 501-9352**](tel:6025019352) or [**sam@thebrokery.com**](mailto:sam@thebrokery.com). I'm here to help.
+Once you’ve made these upgrades, consider getting professional photos taken. Good images can attract more buyers and help you get a better price. If you have any questions or need more tips, feel free to reach out at [**(602) 501-9352**](tel:6025019352) or [**sam@thebrokery.com**](mailto:sam@thebrokery.com). I’m here to help.
