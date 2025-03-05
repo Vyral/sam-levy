@@ -22,7 +22,7 @@ What mistakes should you avoid when selling your home? There are many little thi
 
 **1\. Ignoring the first offer.** Many sellers hold out, hoping to get multiple offers. But sometimes, the first offer is the best one. While it’s tempting to wait for more bids, you might miss out on a great opportunity. So, if the first offer is solid, it’s worth giving it some serious thought.
 
-**2\. Not decluttering or depersonalizing.** When potential buyers walk through your door, you want them to imagine themselves living there, not feel like they’re intruding on someone else's space. By clearing out your personal items, buyers can see the "bones" of your home and envision what it could be like for them.
+**2\. Not decluttering or depersonalizing.** When potential buyers walk through your door, you want them to imagine themselves living there, not feel like they’re intruding on someone else’s space. By clearing out your personal items, buyers can see the “bones” of your home and envision what it could be like for them.
 
 **3\. Skipping professional photography.** I can’t stress enough how important it is to get professional photography done. This is your home’s first impression online; we all know how much that matters. A skilled photographer can capture your home in the best light, showing off all its features. If your Realtor doesn’t bring in a pro for this, it’s time to ask why.
 
