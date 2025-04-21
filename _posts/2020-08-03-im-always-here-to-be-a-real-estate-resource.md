@@ -20,6 +20,6 @@ youtube_code: DBM60_kYsX4
 
 *Our lifetime client care guarantee: get expert guidance beyond closing.*
 
-Homeownership doesn’t stop at closing, so you can still count on me once the paperwork is signed. While many agents move on, I don't. Whether you bought your home with me or someone else, I’m here to help.
+Homeownership doesn’t stop at closing, so you can still count on me once the paperwork is signed. While many agents move on, I don’t. Whether you bought your home with me or someone else, I’m here to help.
 
 If you’re stuck on whether to renovate, unsure if refinancing makes sense, or wondering when it’s time to buy or sell your house, you can contact me anytime. I’m always happy to chat. So, if you’ve got a question about real estate, call or text me anytime at [(602) 501-9352](tel:6025019352) or [sam@thebrokery.com](mailto:sam@thebrokery.com). I’m looking forward to hearing from you.
