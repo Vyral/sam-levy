@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 'Lifetime Client Care: I Want to Be a Resource for You'
-date: 2024-07-28 19:52:00
+date: 2025-04-20 19:52:00
 tags:
   - Real Estate
-excerpt: Homeowners can benefit from a Realtor’s wide-ranging knowledge and contacts.
+excerpt: >-
+  I’m your resource if you need help with renovations, refinancing, or your next
+  real estate move, even after our deal is done.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sam+Levy/2020/Sam+Levy+Use+Me+as+a+Resource+2.mp4
 pullquote:
@@ -16,8 +18,8 @@ youtube_code: DBM60_kYsX4
 ---
 {% include youtube.html %}
 
-*Homeowners can benefit from a Realtor’s wide-ranging knowledge and contacts.*
+*Our lifetime client care guarantee: get expert guidance beyond closing.*
 
-I just wanted to share this quick message with you today: If you’ve bought or sold a home with me and ever have questions about renovations, refinancing, or anything else, please feel free to use me as a resource.
+Homeownership doesn’t stop at closing, so you can still count on me once the paperwork is signed. While many agents move on, I don't. Whether you bought your home with me or someone else, I’m here to help.
 
-A lot of people just assume that once a transaction is closed, your relationship with your agent ends. I pride myself on staying in touch with my past clients and being available at all times to answer questions and offer advice. To hear more about this, watch the short video above
+If you’re stuck on whether to renovate, unsure if refinancing makes sense, or wondering when it’s time to buy or sell your house, you can contact me anytime. I’m always happy to chat. So, if you’ve got a question about real estate, call or text me anytime at [(602) 501-9352](tel:6025019352) or [sam@thebrokery.com](mailto:sam@thebrokery.com). I’m looking forward to hearing from you.
