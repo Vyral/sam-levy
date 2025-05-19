@@ -24,9 +24,9 @@ This charming home at [4440 E Campbell Ave, Phoenix, AZ](https://thebrokery.com/
 
 **What truly sets this property apart is its prime location.** You’re just a short walk from the vibrant Henry Global Ambassador in LEO, where fantastic dining and a lively community atmosphere await.
 
-And let’s not forget the views! From the backyard, you’ll enjoy a stunning, unobstructed view of Camelback Mountain, an iconic Arizona backdrop that never gets old. Additionally, you're within walking distance of the Camelback Mountain trailhead, a local favorite, as well as top-rated schools, shops, and restaurants.
+And let’s not forget the views! From the backyard, you’ll enjoy a stunning, unobstructed view of Camelback Mountain, an iconic Arizona backdrop that never gets old. Additionally, you’re within walking distance of the Camelback Mountain trailhead, a local favorite, as well as top-rated schools, shops, and restaurants.
 
-Homes like this don't stay on the market long, so take a closer look before they're gone.
+Homes like this don’t stay on the market long, so take a closer look before they’re gone.
 
 **View the Full Listing here:** [**4440 E Campbell Avenue, Phoenix, AZ. 85018**](https://thebrokery.com/home-search/listings/1468698282161877959-4440-E-CAMPBELL-Avenue?fr=1)
 
