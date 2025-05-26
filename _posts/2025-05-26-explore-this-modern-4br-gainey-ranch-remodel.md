@@ -31,3 +31,5 @@ The backyard has been completely redone with privacy and function in mind. New t
 If you’re looking for a standout remodel in one of Scottsdale’s most desirable communities, this is your chance. Don’t wait; homes like this move quickly.
 
 **View the listing here**:[**7511 E Woodsage Ln, Scottsdale, AZ 85258**](https://www.zillow.com/homedetails/7511-E-Woodsage-Ln-Scottsdale-AZ-85258/7859853_zpid/)
+
+For questions or to schedule a private showing, call or text me at [**(602) 501-9352**](tel:%2016025019352){: target="_blank" rel="noopener"} or email [**sam@thebrokery.com**](mailto:sam@thebrokery.com). Let’s get you through the door before it hits the market radar.
