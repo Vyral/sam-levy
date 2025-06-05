@@ -20,7 +20,7 @@ youtube_code: WxCZhytERyA
 
 Selling a home is more than a transaction. There are memories in those walls: first holidays, birthdays, late nights in the kitchen. And when the time comes to move on, it’s not always easy to detach your heart from the house. That’s why having a professional real estate agent is a necessity.
 
-Emotions run high when it’s time to sell. ** ** You may be tempted to price it based on what you think it's worth rather than what the market says. Or maybe you'll hold out too long for an offer that'll never come, all because you're too attached to let go.
+Emotions run high when it’s time to sell. You may be tempted to price it based on what you think it’s worth rather than what the market says. Or maybe you’ll hold out too long for an offer that’ll never come, all because you’re too attached to let go.
 
 That’s where a great agent comes in. **A seasoned agent gives you more than comps and marketing tips; they give you perspective.** They’ll help you understand your home’s true market value, guide you through the timeline, and advise you on how to prepare your property so it makes a strong first impression.
 
