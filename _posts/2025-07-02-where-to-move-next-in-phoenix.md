@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Where to Move Next in Phoenix:  3 Best Neighborhoods for Upsizing Families'
+title: 'Where to Move Next in Phoenix: 3 Best Neighborhoods for Upsizing Families'
 date: 2025-07-02 00:00:00
 tags:
 excerpt: >-
