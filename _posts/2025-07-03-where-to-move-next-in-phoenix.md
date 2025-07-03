@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where to Move Next in Phoenix
-date: 2025-07-03 00:00:00
+date: 2025-07-02 00:00:00
 tags:
 excerpt: >-
   Planning to move up? Arcadia Lite, North Central, and PV Mall are ideal next
