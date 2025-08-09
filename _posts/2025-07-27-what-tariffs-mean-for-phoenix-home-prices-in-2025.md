@@ -24,7 +24,7 @@ The tariffs are obviously a big topic of discussion right now, and they will und
 
 **2\. Building materials.** Tariffs could increase the prices of lumber, drywall, and appliances. If that happens, the cost of building or remodeling a home will also rise.
 
-**3\. Consumer confidence.** Consumer confidence is already being affected by all this. When people are unsure about what's going to happen, they tend to hold off on big decisions, such as buying or selling a house.
+**3\. Consumer confidence.** Consumer confidence is already being affected by all this. When people are unsure about what’s going to happen, they tend to hold off on big decisions, such as buying or selling a house.
 
 **4\. Stock market.** The way the stock market goes up and down affects how much cash buyers and sellers have available. If people are feeling uncertain about their investments, that can slow the market as well.
 
