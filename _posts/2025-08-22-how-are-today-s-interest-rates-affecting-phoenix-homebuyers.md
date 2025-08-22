@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-are-today-s-interest-rates-affecting-phoenix-homebuyers.jpg
-youtube_code: https://youtube.com/shorts/T66WXBUqzMk?feature=shared
+youtube_code: T66WXBUqzMk
 ---
 {% include youtube.html %}
 
