@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/where-to-hang-out-in-north-central-phoenix-1.png
-youtube_code: https://www.youtube.com/shorts/mwraxM2OeRs
+youtube_code: mwraxM2OeRs
 ---
 {% include youtube.html %}
 
