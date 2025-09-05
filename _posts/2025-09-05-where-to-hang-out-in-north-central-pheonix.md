@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where To Hang Out in North Central Pheonix
+title: Where To Hang Out in North Central Phoenix
 date: 2025-09-05 07:00:00
 tags:
   - Real Estate
