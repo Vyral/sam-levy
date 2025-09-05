@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/where-to-hang-out-in-north-central-phoenix.png
+youtube_alternate_image: /uploads/where-to-hang-out-in-north-central-phoenix-1.png
 youtube_code: https://www.youtube.com/shorts/mwraxM2OeRs
 ---
 {% include youtube.html %}
@@ -25,7 +25,7 @@ Moving to a new neighborhood is exciting, but let’s be honest, it also comes w
 
 **Start with Uptown Plaza.** At the corner of Central and Camelback, you’ll find Uptown Plaza, one of the most popular destinations in the area. This is where The Henry recently opened, and it’s quickly become a go-to spot. Whether you’re stopping in for brunch, coffee, or dinner, The Henry has a relaxed vibe that makes it easy to settle in.
 
-What makes Uptown Plaza even better is the variety. If you're looking for something lighter, Flower Child offers healthy, family-friendly meals suitable for all ages. Craving a classic burger and fries? Shake Shack is right here, too, and it’s always consistent. Manor offers an additional option with its own unique flavor, providing multiple choices all in one convenient location. Uptown Plaza is the kind of place where you can come often, try different things, and always feel like you’re in the center of the action.
+What makes Uptown Plaza even better is the variety. If you’re looking for something lighter, Flower Child offers healthy, family-friendly meals suitable for all ages. Craving a classic burger and fries? Shake Shack is right here, too, and it’s always consistent. Manor offers an additional option with its own unique flavor, providing multiple choices all in one convenient location. Uptown Plaza is the kind of place where you can come often, try different things, and always feel like you’re in the center of the action.
 
 {% include pullquote.html %}
 
@@ -33,4 +33,4 @@ What makes Uptown Plaza even better is the variety. If you're looking for someth
 
 **Don’t miss Mach One Sports Performance.** Of course, life is not only about where you eat and drink. Finding a place to stay active and meet people is just as important when you are new. That is why I recommend Mach One Sports Performance. This is not just another gym; it is a place built on community, where you’ll find supportive trainers, challenging workouts, and people who make the space feel welcoming. The energy here is different; it is motivating and fun. If you are looking to build both fitness and friendships, this is where you want to be.
 
-While settling into a new area can feel overwhelming at first, knowing the right places to go makes the transition easier. If you’re planning your next move, get in touch with me at [**(602) 501-9352**](tel:%20+16025019352){: target="_blank" rel="noopener"} ** ** or [**sam@thebrokery.com**](mailto:sam@thebrokery.com){: target="_blank" rel="noopener"}. I’d love to help you get connected and make North Central feel like home.
+While settling into a new area can feel overwhelming at first, knowing the right places to go makes the transition easier. If you’re planning your next move, get in touch with me at [**(602) 501-9352**](tel:%20+16025019352){: target="_blank" rel="noopener"} \*\* \*\* or [**sam@thebrokery.com**](mailto:sam@thebrokery.com){: target="_blank" rel="noopener"}. I’d love to help you get connected and make North Central feel like home.
