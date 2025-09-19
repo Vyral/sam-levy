@@ -21,7 +21,7 @@ youtube_code: kwVGe0JK3sM
 
 {% include excerpt.html %}
 
-Selling your home is a significant financial decision, and in today's competitive market, avoiding common missteps is crucial to achieving a successful and profitable sale. I’m going to share what I think are the three critical mistakes you must avoid.
+Selling your home is a significant financial decision, and in today’s competitive market, avoiding common missteps is crucial to achieving a successful and profitable sale. I’m going to share what I think are the three critical mistakes you must avoid.
 
 **1\. Ignoring your agent’s preparation advice** can cost you plenty later on. The initial photos and showings are what draw buyers in. First impressions are everything, and a well-staged home that is decluttered, cleaned, and depersonalized helps potential buyers visualize themselves living there. You’ll want to present a move-in-ready property if you *really* want your property to stand out from the rest.
 
@@ -31,4 +31,4 @@ Selling your home is a significant financial decision, and in today's competitiv
 
 **3\. Dismissing the first offer** in hopes of something better can backfire. The excitement of listing a home often comes with the expectation of a bidding war, but the first offer you receive is oftentimes the best. Whether your home has been on the market for one day or 100 days, it is vital to give that initial proposal serious and respectful consideration. Buyers are savvy, and a strong, early offer often represents a motivated purchaser and the peak of market interest in your property.
 
-By following these tips, you can navigate the selling process with confidence and maximize your return on investment. If you’re looking to sell your home soon, I’d love to help you out. [Contact me](https://samlevyrealestate.com/contact/) ** ** to get started, or if you have any questions and concerns about your home sale.
+By following these tips, you can navigate the selling process with confidence and maximize your return on investment. If you’re looking to sell your home soon, I’d love to help you out. [Contact me](https://samlevyrealestate.com/contact/) to get started, or if you have any questions and concerns about your home sale.
