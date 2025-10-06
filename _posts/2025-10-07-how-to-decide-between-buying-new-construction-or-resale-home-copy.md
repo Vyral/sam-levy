@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Decide Between Buying New Construction or Resale Home
-date: 2025-10-07 00:00:00
+date: 2025-10-06 00:00:00
 tags:
 excerpt: >-
   The right choice comes down to lifestyle, location, and budget. Weigh your
