@@ -31,4 +31,4 @@ Remember, **cosmetic improvements can be done over time.** What you can’t chan
 
 If you’re thinking about buying or even selling and have questions, feel free to reach out to me anytime at [**(602) 501-9352**](tel:6025019352){: target="_blank" rel="noopener"} or [**sam@thebrokery.com**](mailto:sam@thebrokery.com){: target="_blank" rel="noopener"}. I’d love to guide you through the process and answer any questions you might have.
 
-Or, if you want a personalized plan to prepare for your purchase, schedule a one-on-one consultation so we can map out your must-haves together before you start shopping.
+Or, if you want a personalized plan to prepare for your purchase, [schedule a one-on-one consultation](https://blog.samlevyrealestate.com/contact){: target="_blank" rel="noopener"} so we can map out your must-haves together before you start shopping.
