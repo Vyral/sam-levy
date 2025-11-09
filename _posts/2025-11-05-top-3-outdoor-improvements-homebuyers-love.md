@@ -34,4 +34,4 @@ If you’re thinking about selling, these updates can help you attract more buye
 
 If you ever have questions about upgrading, buying, or selling a home here in Phoenix, I’d love to help! Just reach out anytime at [**(602) 501-9352**](tel:6025019352){: target="_blank" rel="noopener"} or [**sam@thebrokery.com**](mailto:sam@thebrokery.com){: target="_blank" rel="noopener"}. I’d love to guide you through the process and answer any questions you might have.
 
-Or, if you want a personalized real estate plan, schedule a one-on-one consultation so we can map out your must-haves together before you buy or sell your home.
+Or, if you want a personalized real estate plan, [**contact me today**](https://samlevy.thebrokery.com/contact-sam-levy/){: target="_blank" rel="noopener"} so we can map out your must-haves together before you buy or sell your home.
