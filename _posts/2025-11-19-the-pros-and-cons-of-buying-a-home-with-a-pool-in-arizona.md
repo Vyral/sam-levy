@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/the-pros-and-cons-of-buying-a-home-with-a-pool-in-arizona-2.jpg
 youtube_code: xUxc2oyMTWQ
 ---
 {% include youtube.html %}
