@@ -34,5 +34,3 @@ Both bedrooms have direct access, but neither has exclusive ownership of the bat
 Now, when you hear en suite bathrooms or Jack and Jill bathrooms, you’ll know exactly what’s being described, and why it matters.
 
 If you have questions about buying or selling a home in Phoenix, or you want help understanding how your floor plan fits today’s market, feel free to reach out anytime at [**(602) 501-9352**](tel:6025019352) or [**sam@thebrokery.com**](mailto:sam@thebrokery.com). I’m always here to give guidance based on your goals and what’s available in today’s market.
-
-&nbsp;
