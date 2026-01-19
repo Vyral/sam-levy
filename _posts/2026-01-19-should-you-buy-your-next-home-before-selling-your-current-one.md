@@ -25,8 +25,6 @@ I get asked this all the time, and the answer comes down to a few practical fact
 
 **The first thing to look at is whether you can carry two mortgages at the same time.** That means being able to afford your current home’s mortgage while also paying for the new one.
 
-{% include pullquote.html %}
-
 **Next thing, just as important is having enough cash for the down payment on the next home.**
 
 If both of those boxes are checked, buying before selling can be a solid option. It gives you flexibility. You can move without rushing, avoid temporary housing, and focus on finding the right home instead of settling because of timing pressure.
