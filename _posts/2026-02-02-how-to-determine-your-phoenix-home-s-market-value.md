@@ -20,13 +20,13 @@ youtube_code: YQDAdRpJ4eU
 
 {% include excerpt.html %}
 
-One of the most common questions I get from Phoenix homeowners is: "How do I determine the actual value of my home?"
+One of the most common questions I get from Phoenix homeowners is: “How do I determine the actual value of my home?”
 
 To get it right, I follow two essential steps.
 
 **Step 1: I schedule a home visit.** Condition is everything when it comes to how buyers perceive value. Two homes with identical layouts can sell for vastly different prices based on updates, maintenance, and overall care. Seeing your home in person lets me account for the unique details that online tools cannot.
 
-**Step 2: I review comparable sales.** I review "comps," which are similar homes that have sold recently (usually within the last six months) and within about a mile of your property. I focus on homes similar in size, age, and style to see exactly what buyers are paying in today’s Phoenix market.
+**Step 2: I review comparable sales.** I review “comps,” which are similar homes that have sold recently (usually within the last six months) and within about a mile of your property. I focus on homes similar in size, age, and style to see exactly what buyers are paying in today’s Phoenix market.
 
 **Why not just use online estimates?** The truth is, those estimates are just rough guesses.
 
