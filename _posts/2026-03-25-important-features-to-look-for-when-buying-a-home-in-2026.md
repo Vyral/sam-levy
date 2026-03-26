@@ -50,4 +50,4 @@ In today’s challenging market, you may not find a home that checks every singl
 
 Remember: You can change the aesthetic, but you can’t change the location. Weigh the two carefully to ensure you get the best long-term option for yourself.
 
-Whether you are thinking about buying or selling in Phoenix, let’s talk. Feel free to reach out to me anytime at [(602) 501-9352](tel:6025019352) or [sam@thebrokery.com](mailto:sam@thebrokery.com). I’m here to help.
+Whether you are thinking about buying or selling in Phoenix, let’s talk. Feel free to reach out to me anytime at [**(602) 501-9352**](tel:6025019352){: target="_blank" rel="noopener"} or [**sam@thebrokery.com**](mailto:sam@thebrokery.com){: target="_blank" rel="noopener"}. I’m here to help.
