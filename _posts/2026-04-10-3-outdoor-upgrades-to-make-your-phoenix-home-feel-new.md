@@ -25,8 +25,6 @@ If you want to upgrade your home so it feels brand new, you don’t always need 
 
 **2\. Add an outdoor kitchen.** It’s definitely a higher upfront cost, but it’s one you’ll enjoy every day. With Phoenix weather being as nice as it is most of the year, a grill, fridge, and some counter space can turn your backyard into a place you actually use all the time.
 
-{% include pullquote.html %}
-
 **3\. Install a new garage door.** When it comes to curb appeal, never underestimate the power of the garage door. Because it makes up a large part of your home’s exterior, a new door completely changes how the house looks from the street. It is a simple upgrade that makes a big visual difference.
 
 Whether you are looking to sell or simply want to enjoy your space more, these projects are excellent places to start.
