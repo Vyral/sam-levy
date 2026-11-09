@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Remodel ROI in Phoenix Starts With Your Kitchen
-date: 2026-11-08T00:00:00Z
+date: 2026-11-07T00:00:00Z
 tags:
 excerpt: Kitchens and primary bathrooms bring the strongest returns, and smart
   material choices keep your remodel budget in check.
